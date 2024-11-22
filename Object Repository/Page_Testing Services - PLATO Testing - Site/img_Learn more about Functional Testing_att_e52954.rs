@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>61bc80dd-1d1a-48a9-8ffc-122ec98c69b1</webElementGuid>
+      <webElementGuid>3a787972-5c02-465f-b348-cf5aed3f6e49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>f242fabf-d25d-4782-b720-f1e1926349b3</webElementGuid>
+      <webElementGuid>adfccf50-6492-4577-a3d4-c7ed5f0743ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>8b662d22-90ed-48b9-b3e2-a8d5ee0ab9dc</webElementGuid>
+      <webElementGuid>b7eef145-198a-41ae-ba70-96593f9ebade</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>width</name>
       <type>Main</type>
       <value>800</value>
-      <webElementGuid>f891feac-4f33-433e-bbdc-c828c4800e79</webElementGuid>
+      <webElementGuid>f7d6479e-f401-45b5-a02f-503d2c56b89d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>height</name>
       <type>Main</type>
       <value>541</value>
-      <webElementGuid>25ea1af9-91d9-4a5d-833c-c6cf842cf688</webElementGuid>
+      <webElementGuid>073ca7cd-a3af-447e-b5f2-abbc2df8ec1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>src</name>
       <type>Main</type>
       <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/image1-1-1-800x541-1.png</value>
-      <webElementGuid>20313ea9-37fa-40be-84ff-6518191577d8</webElementGuid>
+      <webElementGuid>dd7d97da-d755-4937-b8fe-f5e17ff531f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>attachment-full size-full wp-image-27</value>
-      <webElementGuid>a4e7133d-713b-49d2-ba77-514286a6bb5b</webElementGuid>
+      <webElementGuid>a171fef5-5e4a-4b57-9ea6-ed6d9ebb130b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>srcset</name>
       <type>Main</type>
       <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/image1-1-1-800x541-1.png 800w, http://3.145.59.133:8202/wp-content/uploads/2023/12/image1-1-1-800x541-1-300x203.png 300w, http://3.145.59.133:8202/wp-content/uploads/2023/12/image1-1-1-800x541-1-768x519.png 768w</value>
-      <webElementGuid>a413da8c-913e-41f0-a831-22187ca41649</webElementGuid>
+      <webElementGuid>5bc80946-1c17-404a-a5b4-f6a6dce6c70b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>sizes</name>
       <type>Main</type>
       <value>(max-width: 800px) 100vw, 800px</value>
-      <webElementGuid>e860a276-bc79-43a0-95a8-c88f61d46b62</webElementGuid>
+      <webElementGuid>d27dc2bf-431c-42c9-9c94-de00651b5b87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;page-template-default page page-id-203 page-parent page-child parent-pageid-195 wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-203 elementor-page-422 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-203&quot;]/div[@class=&quot;elementor-element elementor-element-e7a940b e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-60fa4ed e-con-full e-flex e-con e-child&quot;]/div[@class=&quot;elementor-element elementor-element-30ab2b6 elementor-widget elementor-widget-image&quot;]/div[@class=&quot;elementor-widget-container&quot;]/a[1]/img[@class=&quot;attachment-full size-full wp-image-27&quot;]</value>
-      <webElementGuid>16fa4344-2a70-4a82-960a-e6b367427ee9</webElementGuid>
+      <webElementGuid>b4271364-637a-467c-b4dc-e27ec2a461b1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'http://3.145.59.133:8202/wp-content/uploads/2023/12/image1-1-1-800x541-1.png')]</value>
-      <webElementGuid>218dcd89-8863-4966-b6c1-02bb13b7d73b</webElementGuid>
+      <webElementGuid>792d7cae-1e3d-4488-a38f-ac2df3b428f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/div/div/a/img</value>
-      <webElementGuid>d31ed4e3-8e1a-464a-9792-3d0a78979d91</webElementGuid>
+      <webElementGuid>110b11bc-6172-490c-859a-9087609a721e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'http://3.145.59.133:8202/wp-content/uploads/2023/12/image1-1-1-800x541-1.png']</value>
-      <webElementGuid>c968a097-4488-4e59-bff4-b948cdf19484</webElementGuid>
+      <webElementGuid>5d2f70b2-edd4-4d83-a247-7ad28a1a7df5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

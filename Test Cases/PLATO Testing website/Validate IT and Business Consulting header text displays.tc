@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate IT and Business Consulting header text displays</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f82ac523-9937-425b-a375-beb86351bc0c</testCaseGuid>
+</TestCaseEntity>

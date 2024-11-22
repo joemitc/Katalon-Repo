@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>f0813e95-6750-48cd-b9b4-e86939f0693b</webElementGuid>
+      <webElementGuid>632c4136-d66f-46c2-b06e-1ee57e7f1e09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>d63321b9-452e-4322-a8d0-f3c8b8499c8b</webElementGuid>
+      <webElementGuid>6c5243bc-a407-449c-83b3-e7b6b2e5d76a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>29e4a7c5-0692-4845-9ab3-c62e74a92d03</webElementGuid>
+      <webElementGuid>514075ec-2dfc-4a2e-bd9d-f85721cdd624</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>width</name>
       <type>Main</type>
       <value>800</value>
-      <webElementGuid>2e898792-e123-48fe-8146-03651bdc8db3</webElementGuid>
+      <webElementGuid>c4434583-b058-4ae7-904f-91210d00d5d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>height</name>
       <type>Main</type>
       <value>542</value>
-      <webElementGuid>8c9849c4-a301-415f-8a5e-0f3ec5ab7249</webElementGuid>
+      <webElementGuid>5ce6f437-4682-488a-95c5-48f50231f7bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>src</name>
       <type>Main</type>
       <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1.png</value>
-      <webElementGuid>1507e8d7-2281-4abb-ab33-d3f51d1130eb</webElementGuid>
+      <webElementGuid>24d4a8cc-6440-4e5e-829a-bec852c5b452</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>attachment-full size-full wp-image-29</value>
-      <webElementGuid>0fbe4c81-080c-4817-9392-41d7a6f9b541</webElementGuid>
+      <webElementGuid>9ca8378a-2e4d-4c88-b4a3-8c354d75b64e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>srcset</name>
       <type>Main</type>
       <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1.png 800w, http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1-300x203.png 300w, http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1-768x520.png 768w</value>
-      <webElementGuid>ead3eb7c-036f-41cd-abd2-1b9d22c5530d</webElementGuid>
+      <webElementGuid>c6217706-c092-4b86-99b8-7b19dc8aca92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>sizes</name>
       <type>Main</type>
       <value>(max-width: 800px) 100vw, 800px</value>
-      <webElementGuid>ad70ba0e-b849-4a73-914c-c4d6d06412ec</webElementGuid>
+      <webElementGuid>8a81b926-845c-4a8a-b3ea-f7118b768781</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;page-template-default page page-id-203 page-parent page-child parent-pageid-195 wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-203 elementor-page-422 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-203&quot;]/div[@class=&quot;elementor-element elementor-element-5ef2e34 e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-0021804 e-con-full e-flex e-con e-child&quot;]/div[@class=&quot;elementor-element elementor-element-be70d3c elementor-widget elementor-widget-image&quot;]/div[@class=&quot;elementor-widget-container&quot;]/a[1]/img[@class=&quot;attachment-full size-full wp-image-29&quot;]</value>
-      <webElementGuid>5ce6120c-03de-4fec-946f-99ee1b73f71d</webElementGuid>
+      <webElementGuid>b26c3c94-8cce-48bc-9988-ea4a6966c48a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1.png')]</value>
-      <webElementGuid>5a4b9f02-8497-4602-acc4-c26f8bdab4ff</webElementGuid>
+      <webElementGuid>ca2aaf3e-0264-4655-a6e8-c29720124043</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div/div/div/a/img</value>
-      <webElementGuid>283b5ac2-3bd4-4842-9674-c55b18a5836b</webElementGuid>
+      <webElementGuid>9d6497a1-c95e-4fec-b2a1-4cdb7f058a6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1.png']</value>
-      <webElementGuid>64379acb-437c-4518-a1cd-4a1851247779</webElementGuid>
+      <webElementGuid>f9e28382-5ee6-4ba2-8d2a-fab55dcfa443</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

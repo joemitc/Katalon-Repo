@@ -21,12 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://platotester:Keyboardproblem$1@3.145.59.133:8202/')
 
-WebUI.mouseOver(findTestObject('Testing Services Dropdown value'))
+WebUI.mouseOver(findTestObject('Page_Home - PLATO Testing - Site/a_Services'))
 
 WebUI.click(findTestObject('Object Repository/Page_Home - PLATO Testing - Site/a_Testing Services'))
 
-WebUI.verifyElementPresent(findTestObject('PLATO - TESTING SERVICES/Page_Testing Services - PLATO Testing - Site/span_Learn more about Test Automation'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('null'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Page_Testing Services - PLATO Testing - Site/img_Learn more about Functional Testing_att_e52954'), 
     0)

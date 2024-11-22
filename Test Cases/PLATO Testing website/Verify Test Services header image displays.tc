@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Verify Test Services header image displays</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>528b8793-2b3c-4915-bce9-eea5b19d248f</testCaseGuid>
-</TestCaseEntity>

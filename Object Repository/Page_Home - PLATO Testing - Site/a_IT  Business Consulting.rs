@@ -6,12 +6,16 @@
    <elementGuidId>c17bb33f-2eea-4413-b2fb-5cd4583efbad</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#menu-item-305 > a.hfe-sub-menu-item</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//li[@id='menu-item-305']/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'http://3.145.59.133:8202/it-business-consulting/' and (text() = 'IT &amp; Business Consulting' or . = 'IT &amp; Business Consulting')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-305 > a.hfe-sub-menu-item</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a8c41aa2-627f-49a8-b22a-7fa0b1f618d0</webElementGuid>
+      <webElementGuid>def540da-65d2-4ff8-a670-e583de6ddb90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>http://3.145.59.133:8202/it-business-consulting/</value>
-      <webElementGuid>2455fa69-178a-4cbb-bfa9-fd9674e05f49</webElementGuid>
+      <webElementGuid>b3378f13-5b00-4d8c-8d0e-bc04f6165dfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hfe-sub-menu-item</value>
-      <webElementGuid>904d93bb-2713-4db9-8a33-49507c0ea75d</webElementGuid>
+      <webElementGuid>325ba6f9-0b6f-44d2-a6e0-3a7855254e4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>IT &amp; Business Consulting</value>
-      <webElementGuid>8078555d-cee7-4d89-8db2-f16b9d35b2b4</webElementGuid>
+      <webElementGuid>6f67783b-7d34-4c0e-bae3-d288e068b610</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;home page-template page-template-elementor_header_footer page page-id-11 wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-11 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-1102 elementor-location-header&quot;]/div[@class=&quot;elementor-element elementor-element-5534b243 elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent elementor-sticky elementor-sticky--active elementor-section--handles-inside elementor-sticky--effects&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-6e0d9124 e-con-full e-flex e-con e-child&quot;]/div[@class=&quot;elementor-element elementor-element-24018ec7 hfe-nav-menu__align-right hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__overline hfe-animation__fade&quot;]/nav[@class=&quot;hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow&quot;]/ul[@id=&quot;menu-1-24018ec7&quot;]/li[@id=&quot;menu-item-303&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@id=&quot;menu-item-305&quot;]/a[@class=&quot;hfe-sub-menu-item&quot;]</value>
-      <webElementGuid>afdd01ee-c091-4cbd-a9ac-ae8a3562d19a</webElementGuid>
+      <webElementGuid>c1d446bd-c2d8-4447-b07b-e0e9e12fb0f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='menu-item-305']/a</value>
-      <webElementGuid>38fb6df5-1592-41b5-b822-ad7eb0378fdd</webElementGuid>
+      <webElementGuid>f79e0de9-d2ae-46f8-9b69-24f538b2e372</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'IT &amp; Business Consulting')]</value>
-      <webElementGuid>39d25c9c-c063-4298-a7ea-397a83033cc3</webElementGuid>
+      <webElementGuid>884c43f9-a7a0-4c79-9776-49df9cdbe968</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing Services'])[1]/following::a[1]</value>
-      <webElementGuid>4ce9d9bf-1abf-434b-a99e-a0882f7e7a97</webElementGuid>
+      <webElementGuid>ede02b8c-6b7b-4bd2-bd1e-e43bff26024f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::a[2]</value>
-      <webElementGuid>1360b3f2-3242-4bb9-856e-bbd928846735</webElementGuid>
+      <webElementGuid>92b73707-1127-4a23-9d27-6331b733d562</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Program'])[1]/preceding::a[1]</value>
-      <webElementGuid>d969a666-4b82-49af-af07-5ac18a472fec</webElementGuid>
+      <webElementGuid>ca2fa5f3-fe6e-460b-ba1b-38672fd3f86d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Careers'])[1]/preceding::a[2]</value>
-      <webElementGuid>9c134220-e89a-426d-924e-a77e3e8f4c28</webElementGuid>
+      <webElementGuid>cfa45492-9f96-440a-bcb4-b018d188875d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='IT &amp; Business Consulting']/parent::*</value>
-      <webElementGuid>a67d65e4-ce7c-46ec-93dd-34d8d60afb96</webElementGuid>
+      <webElementGuid>ebb677a9-57fb-492d-8025-c5eef88486d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +129,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[@href='http://3.145.59.133:8202/it-business-consulting/']</value>
-      <webElementGuid>c04909c3-0822-4b04-8297-054cd59aa377</webElementGuid>
+      <webElementGuid>234ab3dc-62b2-40fb-b54f-9a04d3489680</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +137,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/ul/li[2]/a</value>
-      <webElementGuid>685323bb-1118-48d4-8714-57ac82852bfd</webElementGuid>
+      <webElementGuid>984efd52-70da-4e6d-b732-e1faa3e6e855</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +145,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'http://3.145.59.133:8202/it-business-consulting/' and (text() = 'IT &amp; Business Consulting' or . = 'IT &amp; Business Consulting')]</value>
-      <webElementGuid>5fdaef57-05dc-4155-98ce-5f4937924236</webElementGuid>
+      <webElementGuid>e6a46819-31bd-4f41-86f5-068c41fb8d18</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

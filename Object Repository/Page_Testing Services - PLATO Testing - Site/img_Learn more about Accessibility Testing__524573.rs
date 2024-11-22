@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>7a8177ed-4982-4ca0-8c8c-c9eba732e4c8</webElementGuid>
+      <webElementGuid>00695541-c830-455e-8986-b85f05300298</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>4bcf54df-cf97-426c-a6c2-dca28e64d29c</webElementGuid>
+      <webElementGuid>e0b576b3-5277-4886-8746-b615b8cb34e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>a9f8f8ca-d7d1-4af4-8eb1-b42244431e12</webElementGuid>
+      <webElementGuid>df9027d7-b10a-40bc-b39a-c5caa187cda8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>width</name>
       <type>Main</type>
       <value>2048</value>
-      <webElementGuid>26340056-5ffc-4219-9766-1a4972f01905</webElementGuid>
+      <webElementGuid>4a48c3dd-6f53-4a78-bcfb-a2f01449a5a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>height</name>
       <type>Main</type>
       <value>1152</value>
-      <webElementGuid>5c3d5c0d-c089-420d-b0b7-430d026d46fa</webElementGuid>
+      <webElementGuid>15e67ec3-69c5-42bc-aecd-991306a428a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>src</name>
       <type>Main</type>
       <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Freddy-jpg.webp</value>
-      <webElementGuid>6cb4fc52-14dc-428a-a476-472cf50e8bc4</webElementGuid>
+      <webElementGuid>43288921-beda-4807-b46c-fd04dccd3278</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>attachment-full size-full wp-image-157</value>
-      <webElementGuid>90e81e7e-15f6-435f-b389-6ba557b8c17b</webElementGuid>
+      <webElementGuid>ef827d91-5ea7-4bc6-b792-9bbaa57a4283</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>srcset</name>
       <type>Main</type>
       <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Freddy-jpg.webp 2048w, http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Freddy-jpg-300x169.webp 300w, http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Freddy-jpg-1024x576.webp 1024w, http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Freddy-jpg-768x432.webp 768w, http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Freddy-jpg-1536x864.webp 1536w</value>
-      <webElementGuid>12a2b8d5-9907-462d-a16d-b13ac9c49daf</webElementGuid>
+      <webElementGuid>90a97593-e9c3-4d15-8596-d00a4a0eba8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>sizes</name>
       <type>Main</type>
       <value>(max-width: 2048px) 100vw, 2048px</value>
-      <webElementGuid>6de758d9-572d-4e07-a569-d28535f5ad58</webElementGuid>
+      <webElementGuid>1c7d2296-2493-4182-883c-726e5cf4aeff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;page-template-default page page-id-203 page-parent page-child parent-pageid-195 wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-203 elementor-page-422 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-203&quot;]/div[@class=&quot;elementor-element elementor-element-dffff3f e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-4e3cfed e-con-full e-flex e-con e-child&quot;]/div[@class=&quot;elementor-element elementor-element-3317eb4 elementor-widget elementor-widget-image&quot;]/div[@class=&quot;elementor-widget-container&quot;]/a[1]/img[@class=&quot;attachment-full size-full wp-image-157&quot;]</value>
-      <webElementGuid>f2ce805b-c84d-4984-919b-6d24a00280f3</webElementGuid>
+      <webElementGuid>6eeaa6f9-26e5-4385-ad26-7e36bf0f1a80</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Freddy-jpg.webp')]</value>
-      <webElementGuid>7f27b4a0-2756-4648-ba40-bb4f11677549</webElementGuid>
+      <webElementGuid>f86164a3-b9f8-4103-8aff-358eb7286c59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/div/div/div/a/img</value>
-      <webElementGuid>3d3615e1-650c-4d2e-b754-09aaffdf9c50</webElementGuid>
+      <webElementGuid>98550225-d6c7-4a73-abe4-9653fd5d79f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Freddy-jpg.webp']</value>
-      <webElementGuid>62ca5417-49f9-4f25-87fa-6d39688ac7f9</webElementGuid>
+      <webElementGuid>dcad2b75-aa56-4b9b-8261-90de6e176ea0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
