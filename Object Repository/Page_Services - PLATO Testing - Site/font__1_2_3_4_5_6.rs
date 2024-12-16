@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font__1_2_3_4_5_6</name>
+   <tag></tag>
+   <elementGuidId>a468d41b-4995-48a2-bd34-22991063ec81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(8) > b > font</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[8]/b/font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>bfea5d1d-623b-4473-b1ee-9c0af3afbff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>red</value>
+      <webElementGuid>ab4a9737-8519-4567-a0dc-5986bca2c987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*
+			</value>
+      <webElementGuid>47173f61-7d4e-45d8-8573-d5381b2c7a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form init&quot;]/div[@class=&quot;whole-form&quot;]/p[8]/b[1]/font[1]</value>
+      <webElementGuid>08d51a63-517d-4307-bce0-de7a4b172bec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[8]/b/font</value>
+      <webElementGuid>ca071a8b-93ac-4edc-aeaf-2c9fab98af39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::font[1]</value>
+      <webElementGuid>dbfe3640-853f-4bd4-8eeb-595389db3a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/preceding::font[1]</value>
+      <webElementGuid>b42f0900-66dd-4dae-b5bb-dce7872fc80e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[8]/b/font</value>
+      <webElementGuid>172e597e-7ac6-4d06-adef-e064c0495b23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = '*
+			' or . = '*
+			')]</value>
+      <webElementGuid>0843904f-ef44-4f5e-9b28-faf84bdc9a0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

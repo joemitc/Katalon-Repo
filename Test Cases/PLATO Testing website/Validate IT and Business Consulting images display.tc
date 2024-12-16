@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Validate IT and Business Consulting images display</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>fce21292-b2ef-4632-973b-bcee194fd638</testCaseGuid>
-</TestCaseEntity>
