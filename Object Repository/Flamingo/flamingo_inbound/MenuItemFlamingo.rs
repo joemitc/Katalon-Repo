@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MenuItemFlamingo</name>
+   <tag></tag>
+   <elementGuidId>e38b8b37-f942-445c-aa5e-148a873fd81d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.wp-has-submenu.wp-has-current-submenu.wp-menu-open.menu-top.toplevel_page_flamingo.menu-top-first.menu-top-last > div.wp-menu-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='toplevel_page_flamingo']/a/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>af2fda19-4a42-4ba6-99cd-e9828e27fc31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-menu-name</value>
+      <webElementGuid>deb3c23d-650f-4b28-9ce4-58645025759c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Flamingo</value>
+      <webElementGuid>4d539d96-ceb1-4013-abd4-40a7522e1137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toplevel_page_flamingo&quot;)/a[@class=&quot;wp-has-submenu wp-has-current-submenu wp-menu-open menu-top toplevel_page_flamingo menu-top-first menu-top-last&quot;]/div[@class=&quot;wp-menu-name&quot;]</value>
+      <webElementGuid>d17c127e-73dd-437c-a64a-274880dfd68a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='toplevel_page_flamingo']/a/div[3]</value>
+      <webElementGuid>b301c381-bae6-45d6-9e77-f395413df0c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[5]</value>
+      <webElementGuid>ee323cfc-079f-4e07-a6e5-382effa33312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to toolbar'])[1]/following::div[11]</value>
+      <webElementGuid>a1ff4e22-e286-4f4b-bbe7-3c75c9a330b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inbound Messages'])[1]/preceding::div[1]</value>
+      <webElementGuid>8ad71714-6282-4ffc-ba1f-692e5b373291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::div[5]</value>
+      <webElementGuid>1d974b3e-64a4-4aa4-9811-771a8bd6d597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Flamingo']/parent::*</value>
+      <webElementGuid>077f6c45-103d-413c-8013-a62ca7b4a52f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/div[3]</value>
+      <webElementGuid>f682a7a9-4a8d-47fb-b691-4beb5ad8bc1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Flamingo' or . = 'Flamingo')]</value>
+      <webElementGuid>918b80fe-ac3b-4efb-a817-ec6aa6e97c4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

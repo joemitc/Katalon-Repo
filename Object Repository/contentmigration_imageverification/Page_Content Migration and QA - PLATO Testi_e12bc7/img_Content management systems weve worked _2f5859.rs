@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Content management systems weve worked _2f5859</name>
+   <tag></tag>
+   <elementGuidId>ebe61cf4-d316-48cf-89e8-facbca5c0654</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.attachment-large.size-large.wp-image-243</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Adobe Experience Manager Logo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f1eeaf24-6cba-4974-9d7b-c0b71b4ae44f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>1823c74a-0dbf-4f62-be1d-c96dc95fdd7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>f1712aaa-3fe4-48d1-8e4d-0f00876bf26e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>400</value>
+      <webElementGuid>94c72ad2-837d-4413-ad26-332ef5e33425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>300</value>
+      <webElementGuid>26d063bb-7b5f-4539-ab9f-eec286f631ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/AEM-logo.png</value>
+      <webElementGuid>a71f85b2-0248-4d91-84d6-ff06876273b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-large size-large wp-image-243</value>
+      <webElementGuid>4f33bbe5-adae-4925-a583-9f77105901e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Adobe Experience Manager Logo</value>
+      <webElementGuid>2173345b-84f1-4896-838b-c128cf71451a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/AEM-logo.png 400w, http://3.145.59.133:8202/wp-content/uploads/2023/12/AEM-logo-300x225.png 300w</value>
+      <webElementGuid>e7850d14-4f25-42ca-b7bb-aa5e5cff8d84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 400px) 100vw, 400px</value>
+      <webElementGuid>4be9f925-baf8-48be-a031-9ae6f6bf4be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-214 page-child parent-pageid-203 wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-214 elementor-page-422 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-214&quot;]/div[@class=&quot;elementor-element elementor-element-91f4fac e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-c5d049e e-grid e-con-boxed e-con e-child&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-a6cdc5f e-flex e-con-boxed e-con e-child&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-c2e0a31 elementor-widget elementor-widget-image&quot;]/div[@class=&quot;elementor-widget-container&quot;]/img[@class=&quot;attachment-large size-large wp-image-243&quot;]</value>
+      <webElementGuid>8e84943c-796e-4c0a-9681-e44b0fb8cc4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Adobe Experience Manager Logo']</value>
+      <webElementGuid>431a382e-a69b-4761-95eb-5cb04507e045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/img</value>
+      <webElementGuid>df3da2e2-e048-430a-b1c1-8cea6169331b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://3.145.59.133:8202/wp-content/uploads/2023/12/AEM-logo.png' and @alt = 'Adobe Experience Manager Logo']</value>
+      <webElementGuid>91e6f3b2-729c-48b1-ae0a-d0e360640c40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

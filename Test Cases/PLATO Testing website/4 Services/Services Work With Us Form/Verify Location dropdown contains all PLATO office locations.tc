@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Location dropdown contains all PLATO office locations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7536708-9938-4f04-8abe-a7bbdcb275cb</testCaseGuid>
+</TestCaseEntity>

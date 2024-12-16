@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify PLATO Branding on IT and Business page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a92f6966-67d0-4aa3-818b-467b90503a4d</testCaseGuid>
+</TestCaseEntity>

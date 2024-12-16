@@ -21,32 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://platotester:Keyboardproblem$1@3.145.59.133:8202/')
 
-WebUI.mouseOver(findTestObject('Page_Home - PLATO Testing - Site/a_Services'))
+WebUI.mouseOver(findTestObject('Home Page/a_Services'))
 
-WebUI.click(findTestObject('Object Repository/Page_Home - PLATO Testing - Site/a_Testing Services'))
+WebUI.click(findTestObject('Object Repository/Home Page/a_Testing Services'))
 
-WebUI.verifyElementPresent(findTestObject('null'), 0)
+WebUI.verifyElementPresent(findTestObject('Testing Services Page/img_Learn more about Test Automation_attach_654f49'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Testing Services - PLATO Testing - Site/img_Learn more about Functional Testing_att_e52954'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Testing Services Page/img_Learn more about Functional Testing_att_e52954'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Testing Services - PLATO Testing - Site/img_Learn more about Performance Testing_at_713c26'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Testing Services Page/img_Learn more about Performance Testing_at_713c26'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Testing Services - PLATO Testing - Site/img_Learn more about ERP Testing_attachment_d2cb2a'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Testing Services Page/img_Learn more about ERP Testing_attachment_d2cb2a'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Testing Services - PLATO Testing - Site/img_Learn more about Test Advisory_attachme_558b6c'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Testing Services Page/img_Learn more about Test Advisory_attachme_558b6c'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Testing Services - PLATO Testing - Site/img_Learn more about Accessibility Testing__524573'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Testing Services Page/img_Learn more about Accessibility Testing__524573'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Testing Services - PLATO Testing - Site/img_Learn more about Content Migration_atta_9d5d48'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Testing Services Page/img_Learn more about Content Migration_atta_9d5d48'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Testing Services - PLATO Testing - Site/span_Learn more about User Acceptance Testing'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Testing Services Page/span_Learn more about User Acceptance Testing'), 0)
 
 WebUI.closeBrowser()
 

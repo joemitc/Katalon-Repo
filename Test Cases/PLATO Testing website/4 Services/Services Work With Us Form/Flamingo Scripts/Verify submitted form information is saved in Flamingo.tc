@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify submitted form information is saved in Flamingo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>59745728-62df-49aa-9377-c89a4923d76e</testCaseGuid>
+</TestCaseEntity>

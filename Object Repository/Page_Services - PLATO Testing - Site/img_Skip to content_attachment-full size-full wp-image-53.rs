@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Skip to content_attachment-full size-full wp-image-53</name>
+   <tag></tag>
+   <elementGuidId>2a88843c-ca6f-4025-a09b-bb550bbce5fc</elementGuidId>
+   <imagePath>../../../Downloads/PLATO-Logo-300x52.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.attachment-full.size-full.wp-image-53</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='PLATO Logo']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>../../../Downloads/PLATO-Logo-300x52.png</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>03b4bf4b-7e82-49d9-a600-50941758d1df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fetchpriority</name>
+      <type>Main</type>
+      <value>high</value>
+      <webElementGuid>f6629e5c-531b-42b3-a00c-89ab2204059d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>3481</value>
+      <webElementGuid>b7d8a887-4c88-402f-a3b8-b78506e97fea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>608</value>
+      <webElementGuid>4af7b2f0-ad25-46b0-a575-bf7b2bb32c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Logo.png</value>
+      <webElementGuid>a468bc9b-0bc7-4f33-9ae5-875dd4e096fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-full size-full wp-image-53</value>
+      <webElementGuid>7f0751c5-0900-4bc8-bf7e-00074ff119a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>PLATO Logo</value>
+      <webElementGuid>6ab70fb0-8a58-4af9-95a6-b360afc67f66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Logo.png 3481w, http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Logo-300x52.png 300w, http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Logo-1024x179.png 1024w, http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Logo-768x134.png 768w, http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Logo-1536x268.png 1536w, http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Logo-2048x358.png 2048w</value>
+      <webElementGuid>73b0afa4-8987-4239-9cec-cdfba249d426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 3481px) 100vw, 3481px</value>
+      <webElementGuid>e074c534-cb37-42c3-8b52-e31867004651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-195 page-parent wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-195 elementor-page-422 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-1102 elementor-location-header&quot;]/div[@class=&quot;elementor-element elementor-element-5534b243 elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent elementor-sticky elementor-sticky--active elementor-section--handles-inside elementor-sticky--effects&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-6143c1aa e-con-full e-flex e-con e-child&quot;]/div[@class=&quot;elementor-element elementor-element-ac4e8bc elementor-widget elementor-widget-image&quot;]/div[@class=&quot;elementor-widget-container&quot;]/figure[@class=&quot;wp-caption&quot;]/a[1]/img[@class=&quot;attachment-full size-full wp-image-53&quot;]</value>
+      <webElementGuid>7813698d-7cf9-491d-bfdd-06065b1fc5ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='PLATO Logo']</value>
+      <webElementGuid>b4dbf4eb-62f9-4afa-a956-9d1dc857a9de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>7dadbfcb-6d82-430a-b6fa-14c7066012a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://3.145.59.133:8202/wp-content/uploads/2023/12/PLATO-Logo.png' and @alt = 'PLATO Logo']</value>
+      <webElementGuid>655f06cd-38f4-431c-bfbd-8b316ae52138</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

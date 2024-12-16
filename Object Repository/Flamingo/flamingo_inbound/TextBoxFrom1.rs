@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TextBoxFrom1</name>
+   <tag></tag>
+   <elementGuidId>e99d2e22-22ed-4c1d-b1dd-5575feec78ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td.from.column-from</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='the-list']/tr[2]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8e8833ad-fce1-4ea0-b3a7-00e540d31642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>from column-from</value>
+      <webElementGuid>bda91f9d-c151-489f-ac28-913c86940214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-colname</name>
+      <type>Main</type>
+      <value>From</value>
+      <webElementGuid>b95d234e-b6b3-4595-8ae3-a97f4c0a233a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Samuel &lt;[your-email]></value>
+      <webElementGuid>435308dc-f34c-46e7-b3c0-c6690346561c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;the-list&quot;)/tr[2]/td[@class=&quot;from column-from&quot;]</value>
+      <webElementGuid>71c59e19-fc61-42a0-9cf5-e6085c8a955f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='the-list']/tr[2]/td[2]</value>
+      <webElementGuid>874e397d-58e1-4524-8cff-90438b3765c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more details'])[2]/following::td[1]</value>
+      <webElementGuid>993167ed-fbce-45cb-a881-2b696e1bf2de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[2]/following::td[1]</value>
+      <webElementGuid>f8b9bf3d-bce2-4c8e-987d-b80e126c49f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Form 7'])[3]/preceding::td[1]</value>
+      <webElementGuid>2a29df36-0020-4732-bf59-e53d6847c4a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]</value>
+      <webElementGuid>5c4e60a7-5a00-410d-baff-17cfc9f8d5dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Samuel &lt;[your-email]>' or . = 'Samuel &lt;[your-email]>')]</value>
+      <webElementGuid>5b873f05-4de2-4fb6-9f01-121d0642ef72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

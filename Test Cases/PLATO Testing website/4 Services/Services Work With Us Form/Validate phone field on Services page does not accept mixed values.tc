@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate phone field on Services page does not accept mixed values</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d1df75e9-3269-45bc-9d9b-68919fbd729d</testCaseGuid>
+</TestCaseEntity>

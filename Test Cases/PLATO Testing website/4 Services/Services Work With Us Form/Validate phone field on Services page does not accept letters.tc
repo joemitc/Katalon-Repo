@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate phone field on Services page does not accept letters</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6ed8bcd-9ab2-49d1-a066-bbe84cda25a9</testCaseGuid>
+</TestCaseEntity>

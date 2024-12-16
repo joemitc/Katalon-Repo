@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Tell Us About Your Project field accepts letters and numbers</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5fdd9074-57d5-4a44-b35e-b85ce036597f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify fields can be auto populated</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>966ac573-837e-4aca-bd88-1ab2eac2c83a</testCaseGuid>
+</TestCaseEntity>

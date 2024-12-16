@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Content management systems weve worked _f9e71f</name>
+   <tag></tag>
+   <elementGuidId>23cba3e8-49d9-4790-9631-c541af2d5803</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.attachment-large.size-large.wp-image-239</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Sitecore logo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3cc1845b-3a45-4de3-8631-ac6af83b8e82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>ae1db1c3-338c-4820-a324-2c1c70573f67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>f3c75305-a094-455a-8c9f-7af8a4636d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>400</value>
+      <webElementGuid>08c7a310-2100-4ad2-8620-4daa7ff4fa79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>160</value>
+      <webElementGuid>fc6d1292-2bc8-45e1-a25b-be205058eef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/sitecore-logo-400x160-1.png</value>
+      <webElementGuid>edd190c7-1b10-4337-8e7b-29abe10f55b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-large size-large wp-image-239</value>
+      <webElementGuid>1ef78902-3bac-4142-9d48-e5f810a079de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sitecore logo</value>
+      <webElementGuid>bd508f03-41a5-42d3-a59f-1810a18e3249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/sitecore-logo-400x160-1.png 400w, http://3.145.59.133:8202/wp-content/uploads/2023/12/sitecore-logo-400x160-1-300x120.png 300w</value>
+      <webElementGuid>6fe9b4fa-4409-455c-b405-4fdbc2102867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 400px) 100vw, 400px</value>
+      <webElementGuid>4e7527d9-600d-4140-b0aa-a5634548bbec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-214 page-child parent-pageid-203 wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-214 elementor-page-422 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-214&quot;]/div[@class=&quot;elementor-element elementor-element-91f4fac e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-c5d049e e-grid e-con-boxed e-con e-child&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-37b4add e-flex e-con-boxed e-con e-child&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-7d5e091 elementor-widget elementor-widget-image&quot;]/div[@class=&quot;elementor-widget-container&quot;]/img[@class=&quot;attachment-large size-large wp-image-239&quot;]</value>
+      <webElementGuid>c37de7eb-4315-48a3-9357-8d009e264b92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Sitecore logo']</value>
+      <webElementGuid>b2245a94-48d5-4d8e-b82a-59ec3bb168ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/img</value>
+      <webElementGuid>175cec12-729b-40f7-83b3-b2b3bb42d463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://3.145.59.133:8202/wp-content/uploads/2023/12/sitecore-logo-400x160-1.png' and @alt = 'Sitecore logo']</value>
+      <webElementGuid>71a7bf22-9a3a-4593-90c8-68a2a1ba7f31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

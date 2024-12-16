@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LinkMoveToTrash</name>
+   <tag></tag>
+   <elementGuidId>44a87fdc-ac95-459e-ab83-f9167e8bc8ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.submitdelete.deletion</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='delete-action']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2766d4ec-5189-4dbf-98da-c353093a610a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://3.145.59.133:8202/wp-admin/admin.php?page=flamingo_inbound&amp;post=1458&amp;action=trash&amp;_wpnonce=bc5905b36d</value>
+      <webElementGuid>7ae8bf3e-cc56-4d1a-9f60-47189b2283f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submitdelete deletion</value>
+      <webElementGuid>e8cb76ec-e4c1-4648-ab3c-9dbb01ce68ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Move to trash</value>
+      <webElementGuid>94eded70-e6f0-4e7b-8e1d-5607da9935ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;delete-action&quot;)/a[@class=&quot;submitdelete deletion&quot;]</value>
+      <webElementGuid>cfaf2611-5cc9-436d-b9f8-7b25d806e3d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='delete-action']/a</value>
+      <webElementGuid>109e8a9c-5e73-4898-a8db-91270d80b0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Move to trash')]</value>
+      <webElementGuid>cbf2c50c-9c69-4896-9586-fa24d1348659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mail_sent'])[1]/following::a[1]</value>
+      <webElementGuid>1e721e13-70c8-44d7-80f5-ab5041da0a57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fields'])[2]/preceding::a[1]</value>
+      <webElementGuid>af371620-44bd-4af7-b787-bcab26a1b20f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move up'])[2]/preceding::a[1]</value>
+      <webElementGuid>edce216d-f44e-45d9-94a5-061f3d1ee9f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Move to trash']/parent::*</value>
+      <webElementGuid>3ffa37f3-7ff3-4088-b84b-f55341772cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://3.145.59.133:8202/wp-admin/admin.php?page=flamingo_inbound&amp;post=1458&amp;action=trash&amp;_wpnonce=bc5905b36d']</value>
+      <webElementGuid>240df68d-957a-4d8a-b700-8782005193e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>78f3a639-7827-4ad2-bf4f-3e7cab8418bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://3.145.59.133:8202/wp-admin/admin.php?page=flamingo_inbound&amp;post=1458&amp;action=trash&amp;_wpnonce=bc5905b36d' and (text() = 'Move to trash' or . = 'Move to trash')]</value>
+      <webElementGuid>6c0574f9-bff3-477a-bdda-21c258b9e138</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

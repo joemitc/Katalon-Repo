@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MenuItemInboundMsgs</name>
+   <tag></tag>
+   <elementGuidId>c235b494-410e-42b0-bdb8-e763c4934c9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.wp-submenu.wp-submenu-wrap > li.wp-first-item > a.wp-first-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = 'admin.php?page=flamingo_inbound' and (text() = 'Inbound Messages' or . = 'Inbound Messages')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>04a3cb32-657d-431a-8dfb-8c5060f05602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>admin.php?page=flamingo_inbound</value>
+      <webElementGuid>a686f2dc-2a38-4850-a42d-cee81800e916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-first-item</value>
+      <webElementGuid>cf81dd46-081d-451e-b3c7-0639d4514988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inbound Messages</value>
+      <webElementGuid>0ebb5baa-a764-4483-88ee-ec3383d65dea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toplevel_page_flamingo&quot;)/ul[@class=&quot;wp-submenu wp-submenu-wrap&quot;]/li[@class=&quot;wp-first-item&quot;]/a[@class=&quot;wp-first-item&quot;]</value>
+      <webElementGuid>3d057110-dfb9-4323-9ea3-788af953dbe8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='toplevel_page_flamingo']/ul/li[2]/a</value>
+      <webElementGuid>755c1cb7-5cf0-4cc7-a01d-3d09c7482a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Inbound Messages')]</value>
+      <webElementGuid>f102ed19-4704-4f24-a1f5-56801035d440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flamingo'])[1]/following::a[1]</value>
+      <webElementGuid>fd03f07b-555e-409b-a42d-0a335779e4b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[2]</value>
+      <webElementGuid>f4197efa-ef9f-456a-8095-03b2e7a76ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::a[1]</value>
+      <webElementGuid>0e1c49b7-d3a7-4740-83bf-e2b22b90b5f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse menu'])[1]/preceding::a[2]</value>
+      <webElementGuid>814cbb0e-ff63-426a-b181-95fe31ee7c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Inbound Messages']/parent::*</value>
+      <webElementGuid>870dbf8e-7270-4f6f-b4f7-fa9bfcf53a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'admin.php?page=flamingo_inbound')])[2]</value>
+      <webElementGuid>aa16ae6a-7d8d-450f-9b16-519f7cace2f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>7e5d182a-c761-46f8-9502-9ae696772ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'admin.php?page=flamingo_inbound' and (text() = 'Inbound Messages' or . = 'Inbound Messages')]</value>
+      <webElementGuid>ac078a11-a01d-4129-a9bb-9ea31bcfca90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -21,39 +21,39 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://platotester:Keyboardproblem$1@3.145.59.133:8202/')
 
-WebUI.mouseOver(findTestObject('Page_Home - PLATO Testing - Site/a_Services'))
+WebUI.mouseOver(findTestObject('Home Page/a_Services'))
 
-WebUI.click(findTestObject('Object Repository/Page_Home - PLATO Testing - Site/a_Testing Services'))
+WebUI.click(findTestObject('Object Repository/Home Page/a_Testing Services'))
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/img_Testing Services_attachment-full size-f_0b10c3'))
-
-WebUI.back()
-
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/img_Learn more about Test Automation_attach_654f49'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/img_Testing Services_attachment-full size-f_0b10c3'))
 
 WebUI.back()
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/img_Learn more about Functional Testing_att_e52954'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/img_Learn more about Test Automation_attach_654f49'))
 
 WebUI.back()
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/img_Learn more about Performance Testing_at_713c26'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/img_Learn more about Functional Testing_att_e52954'))
 
 WebUI.back()
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/img_Learn more about ERP Testing_attachment_d2cb2a'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/img_Learn more about Performance Testing_at_713c26'))
 
 WebUI.back()
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/img_Learn more about Test Advisory_attachme_558b6c'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/img_Learn more about ERP Testing_attachment_d2cb2a'))
 
 WebUI.back()
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/img_Learn more about Accessibility Testing__524573'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/img_Learn more about Test Advisory_attachme_558b6c'))
 
 WebUI.back()
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/img_Learn more about Content Migration_atta_9d5d48'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/img_Learn more about Accessibility Testing__524573'))
+
+WebUI.back()
+
+WebUI.click(findTestObject('Object Repository/Testing Services Page/img_Learn more about Content Migration_atta_9d5d48'))
 
 WebUI.closeBrowser()
 

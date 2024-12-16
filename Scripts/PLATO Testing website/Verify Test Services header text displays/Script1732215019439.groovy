@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://platotester:Keyboardproblem$1@3.145.59.133:8202')
 
-WebUI.mouseOver(findTestObject('Page_Home - PLATO Testing - Site/a_Services'))
+WebUI.mouseOver(findTestObject('Home Page/a_Services'))
 
-WebUI.click(findTestObject('Page_Home - PLATO Testing - Site/a_Testing Services'))
+WebUI.click(findTestObject('Home Page/a_Testing Services'))
 
-WebUI.verifyElementPresent(findTestObject(null), 0)
+WebUI.verifyElementPresent(findTestObject('Testing Services Page/h1_Testing Services'), 0)
 

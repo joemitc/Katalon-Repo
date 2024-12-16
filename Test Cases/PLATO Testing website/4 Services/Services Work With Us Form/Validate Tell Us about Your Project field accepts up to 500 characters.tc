@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Tell Us about Your Project field accepts up to 500 characters</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8e3cde6-b25b-4035-a3fa-70429d7c6f5a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate name fields accepts up to 100 characters</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25b7b4df-2a93-411c-8d46-97c30315b81a</testCaseGuid>
+</TestCaseEntity>

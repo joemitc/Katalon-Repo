@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate phone field accepts up to 12 characters</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc9c1e61-b3bb-4f3a-b9c1-8357ccace463</testCaseGuid>
+</TestCaseEntity>

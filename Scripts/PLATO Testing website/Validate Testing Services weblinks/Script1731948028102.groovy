@@ -21,39 +21,39 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://platotester:Keyboardproblem$1@3.145.59.133:8202')
 
-WebUI.mouseOver(findTestObject('Page_Home - PLATO Testing - Site/a_Services'))
+WebUI.mouseOver(findTestObject('Home Page/a_Services'))
 
-WebUI.click(findTestObject('Object Repository/Page_Home - PLATO Testing - Site/a_Testing Services'))
+WebUI.click(findTestObject('Object Repository/Home Page/a_Testing Services'))
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about Test Automation'))
-
-WebUI.back()
-
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about Functional Testing'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/span_Learn more about Test Automation'))
 
 WebUI.back()
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about Performance Testing'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/span_Learn more about Functional Testing'))
 
 WebUI.back()
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about ERP Testing'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/span_Learn more about Performance Testing'))
 
 WebUI.back()
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about Test Advisory'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/span_Learn more about ERP Testing'))
 
 WebUI.back()
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about Accessibility Testing'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/span_Learn more about Test Advisory'))
 
 WebUI.back()
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about Content Migration'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/span_Learn more about Accessibility Testing'))
 
 WebUI.back()
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about User Acceptance Testing'))
+WebUI.click(findTestObject('Object Repository/Testing Services Page/span_Learn more about Content Migration'))
+
+WebUI.back()
+
+WebUI.click(findTestObject('Object Repository/Testing Services Page/span_Learn more about User Acceptance Testing'))
 
 WebUI.closeBrowser()
 

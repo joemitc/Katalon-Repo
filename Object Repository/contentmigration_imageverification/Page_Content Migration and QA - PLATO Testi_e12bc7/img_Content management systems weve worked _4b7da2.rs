@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Content management systems weve worked _4b7da2</name>
+   <tag></tag>
+   <elementGuidId>cf04220f-2b21-4d77-bfb6-680cc1a71ebc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.attachment-full.size-full.wp-image-240</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Drupal Logo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ffd33f3d-dcd1-416b-9003-b57e4198927f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>5afc49d9-ccab-4f55-a90f-1d1149f232d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>fb63e254-c138-4bc3-bd72-e93ba9d5c847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>400</value>
+      <webElementGuid>edec2a00-ba33-4278-97c6-38ce1e08d26a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>ae7eaad8-d394-4b53-84f9-ad267315b3fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/drupal-logo-400x200-1.png</value>
+      <webElementGuid>78329469-5767-4fe3-b4a8-d32e2e566eaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-full size-full wp-image-240</value>
+      <webElementGuid>32e9ae15-a76f-49e1-8564-e8e175c31f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Drupal Logo</value>
+      <webElementGuid>b91642e4-9367-4672-99b7-85318d298abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/drupal-logo-400x200-1.png 400w, http://3.145.59.133:8202/wp-content/uploads/2023/12/drupal-logo-400x200-1-300x150.png 300w</value>
+      <webElementGuid>4f62b948-7dc7-4c5d-aeb6-cd56a2a897a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 400px) 100vw, 400px</value>
+      <webElementGuid>90409bdf-d236-4fa8-b0e4-51479cdba934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-214 page-child parent-pageid-203 wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-214 elementor-page-422 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-214&quot;]/div[@class=&quot;elementor-element elementor-element-91f4fac e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-c5d049e e-grid e-con-boxed e-con e-child&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-c08c0d1 e-flex e-con-boxed e-con e-child&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-256fb73 elementor-widget elementor-widget-image&quot;]/div[@class=&quot;elementor-widget-container&quot;]/img[@class=&quot;attachment-full size-full wp-image-240&quot;]</value>
+      <webElementGuid>6b824bd6-88e6-4778-a250-da151b93af36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Drupal Logo']</value>
+      <webElementGuid>f5ba201b-b809-42fd-b47b-25a8471fbb14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/img</value>
+      <webElementGuid>e6ff9d69-b912-467b-88c2-8261ddbd81e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://3.145.59.133:8202/wp-content/uploads/2023/12/drupal-logo-400x200-1.png' and @alt = 'Drupal Logo']</value>
+      <webElementGuid>c48433c9-db09-473c-aeb9-91605704b8b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

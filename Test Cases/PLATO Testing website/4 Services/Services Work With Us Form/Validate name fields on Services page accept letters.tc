@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate name fields on Services page accept letters</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64c665ce-cb4a-49ba-bb9f-9689aa5117b8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate phone field on Services page accepts numbers</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>797b79b7-a640-4fce-8ad9-acef797f92d9</testCaseGuid>
+</TestCaseEntity>

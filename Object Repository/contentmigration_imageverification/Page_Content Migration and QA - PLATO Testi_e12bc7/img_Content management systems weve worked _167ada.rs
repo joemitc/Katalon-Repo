@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Content management systems weve worked _167ada</name>
+   <tag></tag>
+   <elementGuidId>3a3151ea-2d64-4d08-a12d-54cccdda57b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.attachment-large.size-large.wp-image-241</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Wordpress logo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b01b0b6d-47a9-465b-aa86-cf3c2e743017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>ef48dbd9-c565-4ede-8e6a-988c6e0321a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>e00a58dd-dd31-4049-9215-5e93b662a163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>400</value>
+      <webElementGuid>aff8bd3e-2338-4eb3-8dd7-3b434af1ff8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>160</value>
+      <webElementGuid>73204111-c884-4592-a187-1697962915a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/wordpress-logo-400x160-1.png</value>
+      <webElementGuid>119b0f95-d461-4c3c-82de-edf103a525f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-large size-large wp-image-241</value>
+      <webElementGuid>1f3eb1b7-26cc-4964-acec-b46abd86da4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Wordpress logo</value>
+      <webElementGuid>c02e4d59-38f9-4042-a16a-0f82d2aae873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/wordpress-logo-400x160-1.png 400w, http://3.145.59.133:8202/wp-content/uploads/2023/12/wordpress-logo-400x160-1-300x120.png 300w</value>
+      <webElementGuid>5a55d561-6153-431a-a3b8-ff7de95ab5dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 400px) 100vw, 400px</value>
+      <webElementGuid>ab458674-bbe0-4a9b-9c24-da1b01e93287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-214 page-child parent-pageid-203 wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-214 elementor-page-422 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-214&quot;]/div[@class=&quot;elementor-element elementor-element-91f4fac e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-c5d049e e-grid e-con-boxed e-con e-child&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-f295682 e-flex e-con-boxed e-con e-child&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-7f81a35 elementor-widget elementor-widget-image&quot;]/div[@class=&quot;elementor-widget-container&quot;]/img[@class=&quot;attachment-large size-large wp-image-241&quot;]</value>
+      <webElementGuid>5e0533c9-2faa-4d76-859f-4c8c47a03f3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Wordpress logo']</value>
+      <webElementGuid>ec696514-a8db-4141-a3da-7217caa7a999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/div/div/img</value>
+      <webElementGuid>aaae1f08-b0e3-4835-8e2a-b6f1efa9daaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://3.145.59.133:8202/wp-content/uploads/2023/12/wordpress-logo-400x160-1.png' and @alt = 'Wordpress logo']</value>
+      <webElementGuid>de6ee44a-1638-454b-8ff7-ceb2e7ad690e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

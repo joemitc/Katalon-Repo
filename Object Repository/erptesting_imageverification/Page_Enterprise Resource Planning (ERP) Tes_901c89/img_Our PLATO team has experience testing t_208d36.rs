@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Our PLATO team has experience testing t_208d36</name>
+   <tag></tag>
+   <elementGuidId>0f52ed1b-32d7-472e-aa7a-9bfdc3af1d20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='SAP Logo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.attachment-large.size-large.wp-image-251</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>719c6246-7f08-4985-9409-c8004a6e4afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>9453d03c-6ba3-448f-b06f-e7951f073ff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>86c6d69d-7661-4446-b56b-7b24431b0179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>400</value>
+      <webElementGuid>fecbc98f-a8fc-4332-87b8-fc08acf59f02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>229</value>
+      <webElementGuid>84bf2d8e-2abc-4ea2-b10b-14bcc6d302ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/sap-logo-400x229-1.png</value>
+      <webElementGuid>ce3e32d9-3420-442b-8028-8578b20dea68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-large size-large wp-image-251</value>
+      <webElementGuid>071ca7cd-b831-429a-9461-9a5bed3a0a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>SAP Logo</value>
+      <webElementGuid>74d69383-285d-4d53-97a1-f57a599b4a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/sap-logo-400x229-1.png 400w, http://3.145.59.133:8202/wp-content/uploads/2023/12/sap-logo-400x229-1-300x172.png 300w</value>
+      <webElementGuid>3e08800a-0c18-4814-9b5a-c20841f23356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 400px) 100vw, 400px</value>
+      <webElementGuid>e9750b06-a759-4517-b715-5fa17a9ea070</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-215 page-child parent-pageid-203 wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-215 elementor-page-422 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-215&quot;]/div[@class=&quot;elementor-element elementor-element-0548c8d e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-d9d9d2f e-grid e-con-boxed e-con e-child&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-9e271e9 e-flex e-con-boxed e-con e-child&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-1da94cb elementor-widget elementor-widget-image&quot;]/div[@class=&quot;elementor-widget-container&quot;]/img[@class=&quot;attachment-large size-large wp-image-251&quot;]</value>
+      <webElementGuid>049705cb-6c6e-480f-ae81-dd08b17a2aab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='SAP Logo']</value>
+      <webElementGuid>2db95601-cad6-467a-90c1-6a6ed2000ba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/img</value>
+      <webElementGuid>8b06a6ab-6b06-4ad6-a5b5-2a4732ec7cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://3.145.59.133:8202/wp-content/uploads/2023/12/sap-logo-400x229-1.png' and @alt = 'SAP Logo']</value>
+      <webElementGuid>2d6f32c0-467e-4b4d-aa78-03545c59dda1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

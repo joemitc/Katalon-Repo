@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify manditory fields are marked with an asterisk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0cd02e72-d4fe-4009-adf1-fe35c5b190f8</testCaseGuid>
+</TestCaseEntity>

@@ -3,24 +3,18 @@
    <description></description>
    <name>img_Learn more about Test Advisory_attachme_558b6c</name>
    <tag></tag>
-   <elementGuidId>36d4be54-7443-4134-8715-2e88a9aa1d87</elementGuidId>
+   <elementGuidId>27ccb76c-7cea-43dd-a549-f711d69cf03f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//img[contains(@src,'http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1.png')]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>img.attachment-full.size-full.wp-image-29</value>
       </entry>
-   </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
-   <smartLocatorCollection>
       <entry>
-         <key>SMART_LOCATOR</key>
-         <value>div:nth-child(8) > div > div > .elementor-element > .elementor-widget-container > a</value>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1.png')]</value>
       </entry>
-   </smartLocatorCollection>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -29,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>632c4136-d66f-46c2-b06e-1ee57e7f1e09</webElementGuid>
+      <webElementGuid>6ba1b1b1-3bb1-4756-9443-6bbdf5c58cc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +31,7 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>6c5243bc-a407-449c-83b3-e7b6b2e5d76a</webElementGuid>
+      <webElementGuid>a46730e3-f2fe-4d0a-a64c-8f84765160db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +39,7 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>514075ec-2dfc-4a2e-bd9d-f85721cdd624</webElementGuid>
+      <webElementGuid>f1266663-ad72-4473-8b57-2ae6e33626b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +47,7 @@
       <name>width</name>
       <type>Main</type>
       <value>800</value>
-      <webElementGuid>c4434583-b058-4ae7-904f-91210d00d5d2</webElementGuid>
+      <webElementGuid>700554f5-e500-48ff-b6c9-fd5298146502</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +55,7 @@
       <name>height</name>
       <type>Main</type>
       <value>542</value>
-      <webElementGuid>5ce6f437-4682-488a-95c5-48f50231f7bd</webElementGuid>
+      <webElementGuid>2deb4022-1b6b-4376-aa97-5eb7f73ed269</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +63,7 @@
       <name>src</name>
       <type>Main</type>
       <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1.png</value>
-      <webElementGuid>24d4a8cc-6440-4e5e-829a-bec852c5b452</webElementGuid>
+      <webElementGuid>a7006c88-456a-4a4a-9945-8af31b9920f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>attachment-full size-full wp-image-29</value>
-      <webElementGuid>9ca8378a-2e4d-4c88-b4a3-8c354d75b64e</webElementGuid>
+      <webElementGuid>4721e670-1243-4b41-9e01-19fabd87d03c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +79,7 @@
       <name>srcset</name>
       <type>Main</type>
       <value>http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1.png 800w, http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1-300x203.png 300w, http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1-768x520.png 768w</value>
-      <webElementGuid>c6217706-c092-4b86-99b8-7b19dc8aca92</webElementGuid>
+      <webElementGuid>be2e3b67-ba03-453d-8ac0-e5629a5b048b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +87,7 @@
       <name>sizes</name>
       <type>Main</type>
       <value>(max-width: 800px) 100vw, 800px</value>
-      <webElementGuid>8a81b926-845c-4a8a-b3ea-f7118b768781</webElementGuid>
+      <webElementGuid>5bdd95e5-841b-4ad8-a8b1-76926e26669a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +95,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;page-template-default page page-id-203 page-parent page-child parent-pageid-195 wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-203 elementor-page-422 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-203&quot;]/div[@class=&quot;elementor-element elementor-element-5ef2e34 e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-0021804 e-con-full e-flex e-con e-child&quot;]/div[@class=&quot;elementor-element elementor-element-be70d3c elementor-widget elementor-widget-image&quot;]/div[@class=&quot;elementor-widget-container&quot;]/a[1]/img[@class=&quot;attachment-full size-full wp-image-29&quot;]</value>
-      <webElementGuid>b26c3c94-8cce-48bc-9988-ea4a6966c48a</webElementGuid>
+      <webElementGuid>39089cec-84f8-4650-878b-d51acc650aaa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +103,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1.png')]</value>
-      <webElementGuid>ca2aaf3e-0264-4655-a6e8-c29720124043</webElementGuid>
+      <webElementGuid>1fbf90fb-a376-49ec-8a97-92e0c45998f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div/div/div/a/img</value>
-      <webElementGuid>9d6497a1-c95e-4fec-b2a1-4cdb7f058a6e</webElementGuid>
+      <webElementGuid>8bb1062a-e711-4277-b49d-cfb56fb6bc6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'http://3.145.59.133:8202/wp-content/uploads/2023/12/MicrosoftTeams-image-800x542-1.png']</value>
-      <webElementGuid>f9e28382-5ee6-4ba2-8d2a-fab55dcfa443</webElementGuid>
+      <webElementGuid>7f2b7cf6-6513-4fc7-971e-492f80e139df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
