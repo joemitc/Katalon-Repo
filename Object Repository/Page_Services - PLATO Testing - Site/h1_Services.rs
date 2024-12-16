@@ -13,8 +13,12 @@
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Work With Us'])[6]/following::h1[1]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Services' or . = 'Services')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>345bad33-3ffb-4a22-a934-12525f464783</webElementGuid>
+      <webElementGuid>0e74a338-e931-412a-867b-5c8b302fba98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>elementor-heading-title elementor-size-default</value>
-      <webElementGuid>945dbdf4-9b0f-41a1-acd1-03c0457dd88a</webElementGuid>
+      <webElementGuid>a8c1fe75-f334-440b-9161-41fe9e962db4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Services</value>
-      <webElementGuid>0efb8b3b-6442-4a9d-bcb8-5b5633f3c957</webElementGuid>
+      <webElementGuid>b949d126-644b-4a8e-bf62-a684bb12fa4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;page-template-default page page-id-195 page-parent wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-195 elementor-page-422 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-195&quot;]/div[@class=&quot;elementor-element elementor-element-f8081e4 e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-3aef63c e-flex e-con-boxed e-con e-child&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-dd32a23 elementor-widget elementor-widget-heading&quot;]/div[@class=&quot;elementor-widget-container&quot;]/h1[@class=&quot;elementor-heading-title elementor-size-default&quot;]</value>
-      <webElementGuid>f1bcac4b-fe74-4e07-a50f-c1af0a3ce248</webElementGuid>
+      <webElementGuid>fe0f88c0-3321-4921-aa94-843e0949e0f5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Work With Us'])[6]/following::h1[1]</value>
-      <webElementGuid>03ce1791-b964-4eeb-8c24-e2757e5cdc47</webElementGuid>
+      <webElementGuid>8d2a93d7-d207-4abf-a278-ee18bc01374c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[6]/following::h1[1]</value>
-      <webElementGuid>9bd18206-391a-4a5b-b3b2-7ea9b0e859fc</webElementGuid>
+      <webElementGuid>a656b6b3-cdf1-41f2-a08d-e85b9627ef3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::h1[1]</value>
-      <webElementGuid>20c36dae-7ab2-4a6e-9bd6-82ee250f4cbb</webElementGuid>
+      <webElementGuid>e6f98771-66e6-4eb9-a495-9f3d1847c8f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>06866869-0407-4c51-87ef-f94a80cdda6e</webElementGuid>
+      <webElementGuid>1cdbfc4c-1fb0-4ae7-b687-1cc895f25485</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Services' or . = 'Services')]</value>
-      <webElementGuid>e0790a24-f918-4c8d-9d20-79b2808baf06</webElementGuid>
+      <webElementGuid>a21d25f6-1c3a-4116-927a-db7dac88bcc0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
