@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate manditory fields must be filled in to submit the form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22fc0bb1-5bc4-45ab-89f5-4171bcbbd75f</testCaseGuid>
+</TestCaseEntity>

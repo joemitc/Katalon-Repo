@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify timeline dropdown includes correct dates</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1457385d-dc4f-4349-9049-db58c9586752</testCaseGuid>
+</TestCaseEntity>

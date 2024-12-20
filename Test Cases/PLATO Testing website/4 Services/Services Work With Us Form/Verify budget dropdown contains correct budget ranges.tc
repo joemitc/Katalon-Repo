@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify budget dropdown contains correct budget ranges</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8b2b397-ec20-40cb-aae0-8cf1a42ad6c5</testCaseGuid>
+</TestCaseEntity>

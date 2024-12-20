@@ -6,15 +6,19 @@
    <elementGuidId>b3f3ed1c-80ae-45bb-bb86-ce5c966d73b8</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>input.wpcf7-form-control.wpcf7-submit.has-spinner</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//input[@value='Submit']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>input.wpcf7-form-control.wpcf7-submit.has-spinner</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'submit']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1ccb79bc-71f6-4352-a3a3-f34f7f9deb2a</webElementGuid>
+      <webElementGuid>b44a6862-2561-4176-b607-3e05b472a349</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>wpcf7-form-control wpcf7-submit has-spinner</value>
-      <webElementGuid>dc69a7ba-b935-458a-909f-85dc01bb4fec</webElementGuid>
+      <webElementGuid>f0cb6fee-0a70-4702-b35c-84b0c99124ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>9f427c69-2022-4a8c-b572-f6e83154a817</webElementGuid>
+      <webElementGuid>8b117b65-bc25-40b8-aa2f-70a2e0ee123b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Submit</value>
-      <webElementGuid>de0e10d4-5554-48c1-9855-46a902d54a57</webElementGuid>
+      <webElementGuid>5a79bf1e-022d-4462-9fdf-b699d9a8755d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form init&quot;]/div[@class=&quot;whole-form&quot;]/div[@class=&quot;submit-button&quot;]/p[1]/input[@class=&quot;wpcf7-form-control wpcf7-submit has-spinner&quot;]</value>
-      <webElementGuid>a894fa9d-d70e-4913-af9d-1785efd3eb98</webElementGuid>
+      <webElementGuid>05999af3-fdd1-4dee-bc20-b8d0c8605aa2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Submit']</value>
-      <webElementGuid>93a39e5f-64b2-4c8e-b7b0-99dd968e28b9</webElementGuid>
+      <webElementGuid>bf8b2212-df97-4463-9260-a64747df128f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/div[3]/p/input</value>
-      <webElementGuid>cb43db2a-200c-4bf3-bde5-f1a7986c16f8</webElementGuid>
+      <webElementGuid>bbca6292-0876-4cab-b4dd-32391753fd69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p/input</value>
-      <webElementGuid>df01aa89-490c-4e10-aafe-3549f0ab1f7b</webElementGuid>
+      <webElementGuid>beee0a01-6f58-4647-bf86-3897dfa84e2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>20b849be-1b91-491d-9a93-2300f8bc0e58</webElementGuid>
+      <webElementGuid>9ab470f2-8752-46bb-946f-10b81544ca35</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
