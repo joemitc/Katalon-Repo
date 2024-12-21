@@ -21,25 +21,33 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://platotester:Keyboardproblem$1@3.145.59.133:8202/')
 
-WebUI.verifyEqual(null, null)
+WebUI.verifyEqual('http://platotester:Keyboardproblem$1@3.145.59.133:8202/', 'http://platotester:Keyboardproblem$1@3.145.59.133:8202/')
 
 WebUI.click(findTestObject('Object Repository/Page_Home - PLATO Testing - Site/a_Services'))
 
-WebUI.verifyEqual(null, null)
+WebUI.verifyEqual('http://3.145.59.133:8202/services/', 'http://3.145.59.133:8202/services/')
 
 WebUI.setText(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/input_Company_text-132'), 'Company A')
 
 WebUI.click(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/input__wpcf7-form-control wpcf7-submit has-spinner'))
 
-WebUI.click(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/div_One or more fields have an error. Pleas_8a9807'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/div_One or more fields have an error. Pleas_8a9807'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/span_Please fill out this field'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/span_Please fill out this field'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/span_Please fill out this field_1'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/span_Please fill out this field_1'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/span_Please fill out this field_1_2'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/span_Please fill out this field_1_2'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/span_Please fill out this field_1_2_3'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/span_Please fill out this field_1_2_3'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/span_Please fill out this field_1_2_3_4'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/span_Please fill out this field_1_2_3_4'), 
+    0)
+
+WebUI.closeBrowser()
 
