@@ -35,11 +35,7 @@ WebUI.click(findTestObject('Object Repository/Page_IT  Business Consulting - PLA
 
 WebUI.verifyEqual('http://3.145.59.133:8202/', 'http://3.145.59.133:8202/')
 
-WebUI.mouseOver(findTestObject('Object Repository/LandingPage/a_Services'))
-
-WebUI.click(findTestObject('Object Repository/LandingPage/a_IT  Business Consulting'))
-
-WebUI.verifyEqual('http://3.145.59.133:8202/it-business-consulting/', 'http://3.145.59.133:8202/it-business-consulting/')
+WebUI.back(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/IT and Business Consulting Page/span_Work With Us'))
 

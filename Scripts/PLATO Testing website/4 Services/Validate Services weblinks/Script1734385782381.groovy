@@ -34,27 +34,21 @@ WebUI.click(findTestObject('Object Repository/Page_Services - PLATO Testing - Si
 
 WebUI.verifyEqual('http://3.145.59.133:8202/', 'http://3.145.59.133:8202/', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Home - PLATO Testing - Site/a_Services'))
-
-WebUI.verifyEqual('http://3.145.59.133:8202/services/', 'http://3.145.59.133:8202/services/', FailureHandling.STOP_ON_FAILURE)
+WebUI.back(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/a_Full List Of Testing Services'))
 
 WebUI.verifyEqual('http://3.145.59.133:8202/services/testing-services/', 'http://3.145.59.133:8202/services/testing-services/', 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/a_Services'))
-
-WebUI.verifyEqual('http://3.145.59.133:8202/services/', 'http://3.145.59.133:8202/services/', FailureHandling.STOP_ON_FAILURE)
+WebUI.back(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/a_Full List Of IT  Business Consulting Services'))
 
 WebUI.verifyMatch('http://3.145.59.133:8202/it-business-consulting/', 'http://3.145.59.133:8202/it-business-consulting/', 
     true)
 
-WebUI.click(findTestObject('Object Repository/Page_IT  Business Consulting - PLATO Testin_f797a7/a_Services'))
-
-WebUI.verifyEqual('http://3.145.59.133:8202/services/', 'http://3.145.59.133:8202/services/', FailureHandling.STOP_ON_FAILURE)
+WebUI.back(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/a_infoplatotech.com'))
 

@@ -6,6 +6,10 @@
    <elementGuidId>9c2c7dd1-f8ae-46b0-8127-2775023112c2</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'menu-559' and (text() = 'Under $10,000$10,001 - $50,000$50,001 - $250,000$250,000+Undetermined' or . = 'Under $10,000$10,001 - $50,000$50,001 - $250,000$250,000+Undetermined')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//select[@name='menu-559']</value>
       </entry>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>23ceda3d-701e-4829-83f9-f5d4ecb2874a</webElementGuid>
+      <webElementGuid>8709e928-0042-4d13-a405-b1ab037f8d82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>class</name>
       <type>Main</type>
       <value>wpcf7-form-control wpcf7-select wpcf7-validates-as-required</value>
-      <webElementGuid>c8d0bb15-40a8-4f52-bc5a-2fb4362bc0dc</webElementGuid>
+      <webElementGuid>3249e0d3-35e1-480f-80e4-3662ae130fad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>db85527d-7410-4dea-8ae3-6afee4755a4d</webElementGuid>
+      <webElementGuid>cf8e30ab-89d7-45cd-a990-f157df41ffc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>619cb6c6-23b6-4085-ae1f-355d386146a3</webElementGuid>
+      <webElementGuid>cf1c906a-2684-44d3-b9cd-a21b02ed608a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +59,7 @@
       <name>name</name>
       <type>Main</type>
       <value>menu-559</value>
-      <webElementGuid>03b565fe-276b-4a7c-a6a1-068a4617ef2d</webElementGuid>
+      <webElementGuid>aa72af61-910a-4597-b360-3c13e0998e28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +67,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Under $10,000$10,001 - $50,000$50,001 - $250,000$250,000+Undetermined</value>
-      <webElementGuid>38e2d39f-373f-4766-b939-267d65501644</webElementGuid>
+      <webElementGuid>cb04b59d-050f-4109-9927-3996b28d51b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form init&quot;]/div[@class=&quot;whole-form&quot;]/p[10]/span[@class=&quot;wpcf7-form-control-wrap&quot;]/select[@class=&quot;wpcf7-form-control wpcf7-select wpcf7-validates-as-required&quot;]</value>
-      <webElementGuid>c3a9a54e-1b80-492d-8a08-98a7bf967a30</webElementGuid>
+      <webElementGuid>f5814dcf-e9cd-4fff-9fae-3ccfcaf89de5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='menu-559']</value>
-      <webElementGuid>966ad8dd-812b-413e-a381-61b10f215beb</webElementGuid>
+      <webElementGuid>2100f2a3-fe45-4bf4-bd95-248b575c4fc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[10]/span/select</value>
-      <webElementGuid>3df0b482-242a-4276-b160-f37d483520ba</webElementGuid>
+      <webElementGuid>0de4b2d4-10e7-4616-9420-f3aaf1ceb134</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::select[1]</value>
-      <webElementGuid>253a0888-0ab5-49f2-9bd0-f55d08f3f27f</webElementGuid>
+      <webElementGuid>b2e80fbb-c07f-43c7-a4d0-02de68768681</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Work With Us'])[7]/preceding::select[1]</value>
-      <webElementGuid>6b88f046-c313-492b-bd1b-e01e8ff46f6e</webElementGuid>
+      <webElementGuid>0dedc50d-6e07-421d-aa59-1eecd3a6be3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERAL BUSINESS INQUIRIES'])[1]/preceding::select[1]</value>
-      <webElementGuid>e71e19a9-b309-4d2b-9eff-69f7385daf3a</webElementGuid>
+      <webElementGuid>fa1d0788-665c-4f78-a310-28887bea413f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[10]/span/select</value>
-      <webElementGuid>a7e8b1ed-b8d5-44b8-a0cb-05a2b0ef82c4</webElementGuid>
+      <webElementGuid>cb84e607-b6ce-4317-9cdc-0f8ea9ae1b2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +131,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'menu-559' and (text() = 'Under $10,000$10,001 - $50,000$50,001 - $250,000$250,000+Undetermined' or . = 'Under $10,000$10,001 - $50,000$50,001 - $250,000$250,000+Undetermined')]</value>
-      <webElementGuid>8a78e9fe-7383-4b81-887e-6f79b868ab98</webElementGuid>
+      <webElementGuid>d4696042-9dfd-4ce1-880c-1eda607aedd8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
