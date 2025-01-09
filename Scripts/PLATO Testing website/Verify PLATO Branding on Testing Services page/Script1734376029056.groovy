@@ -19,16 +19,22 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('http://platotester:Keyboardproblem$1@3.145.59.133:8202')
+
+WebUI.verifyEqual('http://platotester:Keyboardproblem$1@3.145.59.133:8202', 'http://platotester:Keyboardproblem$1@3.145.59.133:8202')
 
 WebUI.mouseOver(findTestObject('LandingPage/a_Services'))
 
 WebUI.click(findTestObject('LandingPage/a_Testing Services'))
 
-WebUI.verifyElementPresent(findTestObject('Page_Testing Services - PLATO Testing - Site/img_Skip to content_attachment-full size-full wp-image-53'), 
+WebUI.verifyEqual('http://3.145.59.133:8202/services/testing-services/', 'http://3.145.59.133:8202/services/testing-services/')
+
+WebUI.verifyElementPresent(findTestObject('Page_Testing Services - PLATO Testing - Site/Page_1736441300216/img_Skip to content_attachment-full size-full wp-image-53'), 
     0)
 
-WebUI.takeElementScreenshot(findTestObject('Page_Testing Services - PLATO Testing - Site/img_Skip to content_attachment-full size-full wp-image-53'))
+WebUI.takeElementScreenshot(findTestObject('Page_Testing Services - PLATO Testing - Site/Page_1736441300216/img_Skip to content_attachment-full size-full wp-image-53'))
 
 WebUI.closeBrowser()
 

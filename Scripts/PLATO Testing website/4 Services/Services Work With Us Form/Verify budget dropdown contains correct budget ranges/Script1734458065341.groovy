@@ -29,17 +29,19 @@ WebUI.click(findTestObject('Home Page/a_Services'))
 
 WebUI.verifyEqual('http://3.145.59.133:8202/services/', 'http://3.145.59.133:8202/services/')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/select_Under 10,00010,001 - 50,00050,001 - _dcc881'), 
-    '$10,001 - $50,000', true)
+WebUI.click(findTestObject('Page_Services - PLATO Testing - Site/select_Under 10,00010,001 - 50,00050,001 - _dcc881'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/select_Under 10,00010,001 - 50,00050,001 - _dcc881'), 
-    '$50,001 - $250,000', true)
+    '$10,001 - $50,000', false)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/select_Under 10,00010,001 - 50,00050,001 - _dcc881'), 
-    '$250,000+', true)
+    '$50,001 - $250,000', false)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/select_Under 10,00010,001 - 50,00050,001 - _dcc881'), 
-    'Undetermined', true)
+    '$250,000+', false)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/select_Under 10,00010,001 - 50,00050,001 - _dcc881'), 
+    'Undetermined', false)
 
 WebUI.closeBrowser()
 

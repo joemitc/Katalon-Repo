@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('http://platotester:Keyboardproblem$1@3.145.59.133:8202')
 
 WebUI.verifyEqual('http://platotester:Keyboardproblem$1@3.145.59.133:8202', 'http://platotester:Keyboardproblem$1@3.145.59.133:8202')
@@ -29,10 +31,10 @@ WebUI.click(findTestObject('LandingPage/a_IT  Business Consulting'))
 
 WebUI.verifyEqual('http://3.145.59.133:8202/it-business-consulting/', 'http://3.145.59.133:8202/it-business-consulting/')
 
-WebUI.verifyElementPresent(findTestObject('Page_IT  Business Consulting - PLATO Testing - Site/img_Skip to content_attachment-full size-full wp-image-53'), 
+WebUI.verifyElementPresent(findTestObject('IT and Business Consulting Page/Page_1736441480107/img_Skip to content_attachment-full size-full wp-image-53'), 
     0)
 
-WebUI.takeElementScreenshot(findTestObject('Page_IT  Business Consulting - PLATO Testing - Site/img_Skip to content_attachment-full size-full wp-image-53'))
+WebUI.takeElementScreenshot(findTestObject('IT and Business Consulting Page/Page_1736441480107/img_Skip to content_attachment-full size-full wp-image-53'))
 
 WebUI.closeBrowser()
 

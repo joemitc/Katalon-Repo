@@ -32,16 +32,16 @@ WebUI.verifyEqual('http://3.145.59.133:8202/services/', 'http://3.145.59.133:820
 WebUI.click(findTestObject('Page_Services - PLATO Testing - Site/select_Immediately1-3 Months3-6 Months6 Months'))
 
 WebUI.selectOptionByValue(findTestObject('Page_Services - PLATO Testing - Site/select_Immediately1-3 Months3-6 Months6 Months'), 
-    'Immediately', true)
+    'Immediately', false)
 
 WebUI.selectOptionByValue(findTestObject('Page_Services - PLATO Testing - Site/select_Immediately1-3 Months3-6 Months6 Months'), 
-    '1-3 Months', true)
+    '1-3 Months', false)
 
 WebUI.selectOptionByValue(findTestObject('Page_Services - PLATO Testing - Site/select_Immediately1-3 Months3-6 Months6 Months'), 
-    '3-6 Months', true)
+    '3-6 Months', false)
 
 WebUI.selectOptionByValue(findTestObject('Page_Services - PLATO Testing - Site/select_Immediately1-3 Months3-6 Months6 Months'), 
-    '6+ Months', true)
+    '6+ Months', false)
 
 WebUI.closeBrowser()
 
