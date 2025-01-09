@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify the phone field on the Services page does not accept a mixture of number and letter values</description>
    <name>Validate phone field on Services page does not accept mixed values</name>
    <tag></tag>
    <comment></comment>

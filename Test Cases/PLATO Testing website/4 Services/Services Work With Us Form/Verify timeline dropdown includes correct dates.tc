@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify the Timeline dropdown list on the Services page includes the expected dates</description>
    <name>Verify timeline dropdown includes correct dates</name>
    <tag></tag>
    <comment></comment>

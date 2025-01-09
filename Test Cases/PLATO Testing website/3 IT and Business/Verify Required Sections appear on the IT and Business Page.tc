@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify the required webpage sections are present on the IT &amp; Business page</description>
    <name>Verify Required Sections appear on the IT and Business Page</name>
    <tag></tag>
    <comment></comment>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify the Location field on the Services page work with us form accepts a selected option made by the user</description>
    <name>Validate Location accepts a user selection</name>
    <tag></tag>
    <comment></comment>

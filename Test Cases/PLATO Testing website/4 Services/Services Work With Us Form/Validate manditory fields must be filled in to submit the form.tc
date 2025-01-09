@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify all mandatory fields on the Services page work with us form must be fileld out for a form to be successfully submitted</description>
    <name>Validate manditory fields must be filled in to submit the form</name>
    <tag></tag>
    <comment></comment>

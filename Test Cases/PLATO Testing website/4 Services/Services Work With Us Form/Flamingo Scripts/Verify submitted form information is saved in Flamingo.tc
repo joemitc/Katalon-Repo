@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify the form imformation entered can be viewed in the Flamingo environment after user clicks submit</description>
    <name>Verify submitted form information is saved in Flamingo</name>
    <tag></tag>
    <comment></comment>

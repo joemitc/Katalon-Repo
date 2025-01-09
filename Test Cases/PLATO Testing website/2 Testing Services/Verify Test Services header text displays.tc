@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify the Testing Services header text is displaying as expected</description>
    <name>Verify Test Services header text displays</name>
    <tag></tag>
    <comment></comment>

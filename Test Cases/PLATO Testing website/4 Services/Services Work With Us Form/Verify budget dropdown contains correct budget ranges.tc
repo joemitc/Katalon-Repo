@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify the correct budget range options are listed under the Budget dropdown list on the Services page</description>
    <name>Verify budget dropdown contains correct budget ranges</name>
    <tag></tag>
    <comment></comment>

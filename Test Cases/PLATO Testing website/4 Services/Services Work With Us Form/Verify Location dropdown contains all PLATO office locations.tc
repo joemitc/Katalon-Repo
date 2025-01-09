@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify the Location dropdown list on the Services page contains all the expected PLATO office locations</description>
    <name>Verify Location dropdown contains all PLATO office locations</name>
    <tag></tag>
    <comment></comment>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify the Company field on the Services page work with us form accepts letters</description>
    <name>Validate Company field accepts letters</name>
    <tag></tag>
    <comment></comment>

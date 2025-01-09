@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify users can navigate using the weblinks on the IT &amp; Business page</description>
    <name>Validate IT and Business Consulting weblinks</name>
    <tag></tag>
    <comment></comment>

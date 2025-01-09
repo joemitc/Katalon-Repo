@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify the first and last name fields on the Services page accept letters</description>
    <name>Validate name fields on Services page accept letters</name>
    <tag></tag>
    <comment></comment>

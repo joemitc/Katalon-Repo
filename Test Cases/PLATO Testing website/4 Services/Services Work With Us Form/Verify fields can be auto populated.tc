@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify that after a user fills out the form fields, the form data on the Services page can be automatically populated using browser autofill</description>
    <name>Verify fields can be auto populated</name>
    <tag></tag>
    <comment></comment>

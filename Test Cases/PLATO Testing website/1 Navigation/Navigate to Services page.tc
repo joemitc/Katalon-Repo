@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify user is able to navigate to the Services page.</description>
    <name>Navigate to Services page</name>
    <tag></tag>
    <comment></comment>

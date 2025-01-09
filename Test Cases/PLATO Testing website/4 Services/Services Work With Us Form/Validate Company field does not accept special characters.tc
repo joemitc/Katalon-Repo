@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify the Company field on the Services page work with us form does not accept special characters</description>
    <name>Validate Company field does not accept special characters</name>
    <tag></tag>
    <comment></comment>

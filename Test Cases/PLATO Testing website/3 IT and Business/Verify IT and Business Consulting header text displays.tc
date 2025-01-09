@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify the IT &amp; Business Consulting page displays the expected header text</description>
    <name>Verify IT and Business Consulting header text displays</name>
    <tag></tag>
    <comment></comment>

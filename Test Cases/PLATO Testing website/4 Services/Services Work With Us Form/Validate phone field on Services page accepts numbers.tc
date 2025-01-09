@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verify the phone field on the Services page accepts numbers</description>
    <name>Validate phone field on Services page accepts numbers</name>
    <tag></tag>
    <comment></comment>
