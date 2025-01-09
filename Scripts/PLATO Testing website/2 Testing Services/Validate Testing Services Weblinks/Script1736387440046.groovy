@@ -35,55 +35,73 @@ WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Test
 
 WebUI.verifyEqual('http://3.145.59.133:8202/', 'http://3.145.59.133:8202/')
 
-WebUI.back()
+WebUI.mouseOver(findTestObject('Home Page/a_Services'))
+
+WebUI.click(findTestObject('Object Repository/Page_Home - PLATO Testing - Site/a_Testing Services'))
 
 WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/a_Services'))
 
 WebUI.verifyEqual('http://3.145.59.133:8202/services/', 'http://3.145.59.133:8202/services/')
 
-WebUI.back()
+WebUI.mouseOver(findTestObject('Home Page/a_Services'))
+
+WebUI.click(findTestObject('Object Repository/Page_Services - PLATO Testing - Site/a_Testing Services'))
 
 WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about Test Automation'))
 
 WebUI.verifyEqual('http://3.145.59.133:8202/services/testing-services/test-automation/', 'http://3.145.59.133:8202/services/testing-services/test-automation/')
 
-WebUI.back()
+WebUI.mouseOver(findTestObject('Home Page/a_Services'))
+
+WebUI.click(findTestObject('Object Repository/Page_Test Automation - PLATO Testing - Site/a_Testing Services'))
 
 WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about Functional Testing'))
 
 WebUI.verifyEqual('http://3.145.59.133:8202/services/testing-services/functional-testing/', 'http://3.145.59.133:8202/services/testing-services/functional-testing/')
 
-WebUI.back()
+WebUI.mouseOver(findTestObject('Home Page/a_Services'))
+
+WebUI.click(findTestObject('Object Repository/Page_Functional Testing - PLATO Testing - Site/a_Testing Services'))
 
 WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about Performance Testing'))
 
 WebUI.verifyEqual('http://3.145.59.133:8202/services/testing-services/performance-testing/', 'http://3.145.59.133:8202/services/testing-services/performance-testing/')
 
-WebUI.back()
+WebUI.mouseOver(findTestObject('Home Page/a_Services'))
+
+WebUI.click(findTestObject('Object Repository/Page_Performance Testing - PLATO Testing - Site/a_Testing Services'))
 
 WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about ERP Testing'))
 
 WebUI.verifyEqual('http://3.145.59.133:8202/services/testing-services/enterprise-resource-planning-erp-testing/', 'http://3.145.59.133:8202/services/testing-services/enterprise-resource-planning-erp-testing/')
 
-WebUI.back()
+WebUI.mouseOver(findTestObject('Home Page/a_Services'))
+
+WebUI.click(findTestObject('Object Repository/Page_Enterprise Resource Planning (ERP) Tes_901c89/a_Testing Services'))
 
 WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about Test Advisory'))
 
 WebUI.verifyEqual('http://3.145.59.133:8202/services/testing-services/test-advisory/', 'http://3.145.59.133:8202/services/testing-services/test-advisory/')
 
-WebUI.back()
+WebUI.mouseOver(findTestObject('Home Page/a_Services'))
+
+WebUI.click(findTestObject('Object Repository/Page_Test Advisory - PLATO Testing - Site/a_Testing Services'))
 
 WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about Accessibility Testing'))
 
 WebUI.verifyEqual('http://3.145.59.133:8202/services/testing-services/accessibility-testing/', 'http://3.145.59.133:8202/services/testing-services/accessibility-testing/')
 
-WebUI.back()
+WebUI.mouseOver(findTestObject('Home Page/a_Services'))
+
+WebUI.click(findTestObject('Object Repository/Page_Accessibility Testing - PLATO Testing - Site/a_Testing Services'))
 
 WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about Content Migration'))
 
 WebUI.verifyEqual('http://3.145.59.133:8202/services/testing-services/content-migration-and-qa/', 'http://3.145.59.133:8202/services/testing-services/content-migration-and-qa/')
 
-WebUI.back()
+WebUI.mouseOver(findTestObject('Home Page/a_Services'))
+
+WebUI.click(findTestObject('Object Repository/Page_Content Migration and QA - PLATO Testi_e12bc7/a_Testing Services'))
 
 WebUI.click(findTestObject('Object Repository/Page_Testing Services - PLATO Testing - Site/span_Learn more about User Acceptance Testing'))
 

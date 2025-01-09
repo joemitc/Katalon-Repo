@@ -6,12 +6,12 @@
    <elementGuidId>46c86afa-c838-4e29-a7d3-fe9460faa2eb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.whole-form > p:nth-of-type(2)</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.whole-form > p:nth-of-type(2)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>7e620935-32e1-4ebe-b522-45ff00203666</webElementGuid>
+      <webElementGuid>0e5f8a13-9967-4cde-88d4-e02c2346fed3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -32,7 +32,7 @@
       <type>Main</type>
       <value>Company
 	</value>
-      <webElementGuid>7cab5283-be05-48f7-b957-53f57d2bde89</webElementGuid>
+      <webElementGuid>c4b50fcd-931b-4f92-9e44-3f3e0d890900</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,7 +40,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form invalid&quot;]/div[@class=&quot;whole-form&quot;]/p[2]</value>
-      <webElementGuid>be443a0b-3890-4fa3-b8eb-59fe8b6e3e93</webElementGuid>
+      <webElementGuid>e381c894-437a-403e-a23f-1e1db15c2666</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[2]</value>
-      <webElementGuid>e24c8da7-d840-45ad-868f-16be7bc9bb94</webElementGuid>
+      <webElementGuid>0510c01e-70d6-4949-9caa-bd8fee85105c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/p[2]</value>
-      <webElementGuid>55109193-b374-4821-9830-fcc115d2d8ba</webElementGuid>
+      <webElementGuid>3db21552-1840-4f39-ba1f-af88902fe07f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,6 +66,6 @@
       <value>//p[(text() = 'Company
 	' or . = 'Company
 	')]</value>
-      <webElementGuid>1b049b91-90b0-45b2-9cf9-5a405c2866fb</webElementGuid>
+      <webElementGuid>f79c6b9c-229b-4128-96e9-5ec966f30840</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -25,7 +25,7 @@ WebUI.navigateToUrl('http://platotester:Keyboardproblem$1@3.145.59.133:8202/')
 
 WebUI.verifyEqual('http://platotester:Keyboardproblem$1@3.145.59.133:8202/', 'http://platotester:Keyboardproblem$1@3.145.59.133:8202/')
 
-WebUI.click(findTestObject('Object Repository/Page_Home - PLATO Testing - Site/a_Services'))
+WebUI.click(findTestObject('Home Page/a_Services'))
 
 WebUI.verifyEqual('http://3.145.59.133:8202/services/', 'http://3.145.59.133:8202/services/')
 

@@ -6,15 +6,19 @@
    <elementGuidId>22641bc8-3b8b-42b5-bf0b-4e7aa02a7233</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.whole-form > p</value>
+         <key>BASIC</key>
+         <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form init&quot;]/div[@class=&quot;whole-form&quot;]/p[7]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p</value>
+         <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(7)</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,38 +27,46 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>35285f9d-31be-405c-a2cb-551f4fcf0a8e</webElementGuid>
+      <webElementGuid>b380179d-dbca-435d-b6e9-7aed5fb20845</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form invalid&quot;]/div[@class=&quot;whole-form&quot;]/p[1]</value>
-      <webElementGuid>1807a766-115f-45d9-a555-59f6034f14a3</webElementGuid>
+      <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form init&quot;]/div[@class=&quot;whole-form&quot;]/p[7]</value>
+      <webElementGuid>f01b7059-c6d1-4812-9694-05bc894f5e38</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p</value>
-      <webElementGuid>77bad291-4643-4466-ae4a-3baaaa2b8cc8</webElementGuid>
+      <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[7]</value>
+      <webElementGuid>17b05147-b398-4ba0-8fc6-0e905991dca1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/preceding::p[1]</value>
-      <webElementGuid>a7b4a070-f9f9-4472-9ce6-b161eb2b89d0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::p[1]</value>
+      <webElementGuid>f05e9f24-2dc9-4182-997e-b9df12b5f83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/preceding::p[1]</value>
+      <webElementGuid>ae92b571-ffcc-4762-a459-3d76394a2f48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/p</value>
-      <webElementGuid>4de2772c-cc94-43b4-9906-4a4f126da094</webElementGuid>
+      <value>//p[7]</value>
+      <webElementGuid>d5cc9e3c-9381-4ea0-a653-b98a500ef150</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

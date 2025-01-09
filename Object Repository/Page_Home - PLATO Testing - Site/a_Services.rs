@@ -6,19 +6,19 @@
    <elementGuidId>2cf828f8-2a8f-4b10-8271-cb78b8a85ac7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@href = 'http://3.145.59.133:8202/services/' and (text() = 'Services' or . = 'Services')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//li[@id='menu-item-303']/div/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'http://3.145.59.133:8202/services/' and (text() = 'Services' or . = 'Services')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>a.hfe-menu-item</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6659d1bd-935f-421c-85c5-7abe67174a8a</webElementGuid>
+      <webElementGuid>24d26023-4cc6-487e-bf16-1b1919ced195</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -35,7 +35,7 @@
       <name>href</name>
       <type>Main</type>
       <value>http://3.145.59.133:8202/services/</value>
-      <webElementGuid>8884e65c-b0b3-45ab-859c-947ae5b95d0d</webElementGuid>
+      <webElementGuid>a1f93453-c92d-4efa-a498-0e126296a626</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hfe-menu-item</value>
-      <webElementGuid>c597bda7-091c-4802-bf89-0ed27fecb994</webElementGuid>
+      <webElementGuid>c887d153-25a7-417f-9de0-6a5bd2e37590</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +51,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>defb0fe7-6789-4b2a-aea5-c506f9c16162</webElementGuid>
+      <webElementGuid>c6f84f11-751e-44a2-bfbe-7169a8db545e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +59,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ce2f611f-e058-4263-a0f2-83d24ef3dfc9</webElementGuid>
+      <webElementGuid>d336e928-b470-41c0-a7a6-fc5a8b2064bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -67,15 +67,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Services</value>
-      <webElementGuid>c7368102-5b10-4935-a5c6-29239afdd834</webElementGuid>
+      <webElementGuid>d242a7ad-db85-4f70-89de-f1970e609c0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;home page-template page-template-elementor_header_footer page page-id-11 wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-11 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-1102 elementor-location-header&quot;]/div[@class=&quot;elementor-element elementor-element-5534b243 elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent elementor-sticky elementor-sticky--active elementor-section--handles-inside elementor-sticky--effects&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-6e0d9124 e-con-full e-flex e-con e-child&quot;]/div[@class=&quot;elementor-element elementor-element-24018ec7 hfe-nav-menu__align-right hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__overline hfe-animation__fade&quot;]/nav[@class=&quot;hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow&quot;]/ul[@id=&quot;menu-1-24018ec7&quot;]/li[@id=&quot;menu-item-303&quot;]/div[@class=&quot;hfe-has-submenu-container&quot;]/a[@class=&quot;hfe-menu-item&quot;]</value>
-      <webElementGuid>865cd993-5a48-4b34-aeff-e2df8d5b6926</webElementGuid>
+      <value>/html[1]/body[@class=&quot;home page-template page-template-elementor_header_footer page page-id-11 wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-11 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-1102 elementor-location-header&quot;]/div[@class=&quot;elementor-element elementor-element-5534b243 elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent elementor-sticky elementor-sticky--effects elementor-sticky--active elementor-section--handles-inside&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-6e0d9124 e-con-full e-flex e-con e-child&quot;]/div[@class=&quot;elementor-element elementor-element-24018ec7 hfe-nav-menu__align-right hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__overline hfe-animation__fade&quot;]/nav[@class=&quot;hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow&quot;]/ul[@id=&quot;menu-1-24018ec7&quot;]/li[@id=&quot;menu-item-303&quot;]/div[@class=&quot;hfe-has-submenu-container&quot;]/a[@class=&quot;hfe-menu-item&quot;]</value>
+      <webElementGuid>f1b327f0-c9c6-4151-9ae5-5bf9796bde38</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='menu-item-303']/div/a</value>
-      <webElementGuid>9ff64221-b26b-4701-867f-8086bdeb11d3</webElementGuid>
+      <webElementGuid>1705d4aa-eba1-4943-bc1f-e2d7274dd4c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Services')]</value>
-      <webElementGuid>483a65cf-4f5f-43d5-a885-83e347688e24</webElementGuid>
+      <webElementGuid>e9bafd72-6f62-489b-9fe1-f4b71b64e83c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/following::a[1]</value>
-      <webElementGuid>c1fd144f-49c2-4d78-9960-cedfb0e8a3f1</webElementGuid>
+      <webElementGuid>2544b8ba-ab7a-40de-8896-a98e394c528a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::a[2]</value>
-      <webElementGuid>b74cca5b-a46d-4a1e-8f4d-e9a70fc07676</webElementGuid>
+      <webElementGuid>1866436e-a3da-455b-8d76-4b5b4bba3fbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing Services'])[1]/preceding::a[1]</value>
-      <webElementGuid>cae5146e-d124-4d5d-93d8-c2cffac85ecf</webElementGuid>
+      <webElementGuid>2cdec05a-a3bf-44b8-b696-c65a12457e5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IT &amp; Business Consulting'])[1]/preceding::a[2]</value>
-      <webElementGuid>11e60efd-7262-49ea-b507-e6f535173b43</webElementGuid>
+      <webElementGuid>0d894c20-c3fb-46dd-bb73-d765c69038a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +131,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Services']/parent::*</value>
-      <webElementGuid>99692c90-73b1-47cd-9ea7-237aecf834ee</webElementGuid>
+      <webElementGuid>24871525-0cd2-4cd7-ac5a-61d54420feef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,7 +139,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[@href='http://3.145.59.133:8202/services/']</value>
-      <webElementGuid>54ae0c1e-4f9b-487f-90aa-4e71562f75cb</webElementGuid>
+      <webElementGuid>3dd3f953-f768-4410-bdc4-fb9d54ab03de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -147,7 +147,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/a</value>
-      <webElementGuid>31d77483-84cc-4791-9510-2adc0d5ddef4</webElementGuid>
+      <webElementGuid>a7c0e495-69bd-4913-81c7-7cf334a6d03a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -155,6 +155,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'http://3.145.59.133:8202/services/' and (text() = 'Services' or . = 'Services')]</value>
-      <webElementGuid>acc60906-98b2-412d-88ab-e883fdad0c3b</webElementGuid>
+      <webElementGuid>328586fa-8486-4af1-81cd-42e117a11956</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

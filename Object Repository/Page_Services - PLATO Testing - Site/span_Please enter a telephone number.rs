@@ -6,12 +6,11 @@
    <elementGuidId>7bcc2ff1-0dec-4e24-9d1a-653750774f86</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/div[2]/div[2]/p[2]/b/font/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7311b33a-2039-408e-b932-55deec8d9a55</webElementGuid>
+      <webElementGuid>4850aab3-372b-4d4e-a42d-e7357924e614</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>wpcf7-not-valid-tip</value>
-      <webElementGuid>ec90b6b9-15f2-4f3d-bdcd-214a439fff51</webElementGuid>
+      <webElementGuid>11261c3a-166f-49a3-ac97-7617259f4dbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>680aa051-a6f2-4a78-a08b-198a16b7a396</webElementGuid>
+      <webElementGuid>49f3b9fb-f833-41a0-9759-51a40a2bfdf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Please enter a telephone number.</value>
-      <webElementGuid>e753f859-ab07-4f68-ab48-23b6609bf524</webElementGuid>
+      <webElementGuid>63d2f06d-34f3-4a9b-8aab-12499945588d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form init&quot;]/div[@class=&quot;whole-form&quot;]/div[@class=&quot;inline&quot;]/div[@class=&quot;field-space2&quot;]/p[2]/b[1]/font[1]/span[@class=&quot;wpcf7-form-control-wrap&quot;]/span[@class=&quot;wpcf7-not-valid-tip&quot;]</value>
-      <webElementGuid>8a84a708-c4a5-42b3-a48f-d85c3995896f</webElementGuid>
+      <webElementGuid>081fdafe-2c8c-4572-aed6-ab9d3a4467d9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/div[2]/div[2]/p[2]/b/font/span/span</value>
-      <webElementGuid>797d3d82-c9a0-4c75-bd94-7a3cabda9b74</webElementGuid>
+      <webElementGuid>85d44cfe-da2b-4fbe-af00-5361f87864b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/preceding::span[1]</value>
-      <webElementGuid>93334739-e031-4a7d-ae0a-5e9dbc3fffb5</webElementGuid>
+      <webElementGuid>bde0c9b2-485a-4d04-b964-e244255662f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/p[2]/b/font/span/span</value>
-      <webElementGuid>c2cb2dfd-98a4-449a-a993-006e75bf272b</webElementGuid>
+      <webElementGuid>957490a0-fb10-4d7c-a894-8235046e966c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Please enter a telephone number.' or . = 'Please enter a telephone number.')]</value>
-      <webElementGuid>2a5b231d-ec1c-4c60-a505-26dfb8a57ea9</webElementGuid>
+      <webElementGuid>6930ac99-fc2b-4d05-a128-065789742920</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>747e6379-7365-4c76-944d-67ed2b523410</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>p:nth-of-type(6)</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(6)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>384d4a92-9df9-46de-872f-37246c221345</webElementGuid>
+      <webElementGuid>640d41f7-a587-497c-9bf0-b4e7e9cb882a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -35,7 +35,7 @@
 			
 
 	</value>
-      <webElementGuid>8595aa5c-898a-4373-84e9-017ebf39da47</webElementGuid>
+      <webElementGuid>41d7e484-65f7-49e7-8ad4-d3e8fa290058</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +43,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form init&quot;]/div[@class=&quot;whole-form&quot;]/p[6]</value>
-      <webElementGuid>f2251894-767e-4a53-b399-569fa99343a2</webElementGuid>
+      <webElementGuid>3ba900b8-6a9d-4d6c-a8fc-dedaba175b07</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -51,7 +51,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[6]</value>
-      <webElementGuid>887cc6b0-9446-47dd-81ef-01352e1946a4</webElementGuid>
+      <webElementGuid>e3f69a3c-2d6d-4e75-bec9-daad2733b1a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -59,7 +59,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::p[2]</value>
-      <webElementGuid>20e6a2e3-b633-40c8-8b81-211e48d6bd73</webElementGuid>
+      <webElementGuid>23bb2a74-f70b-4700-95e3-3f2164a79bbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[6]</value>
-      <webElementGuid>b4f53f3d-1aae-4aa2-a98a-9c050dedb51e</webElementGuid>
+      <webElementGuid>dfd6a23d-4980-42f4-9977-33780cb4f33c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,6 +83,6 @@
 			
 
 	')]</value>
-      <webElementGuid>3cbe9473-c48e-4893-848b-846bbed2ee6b</webElementGuid>
+      <webElementGuid>fb93e64c-df22-4a1f-b0ef-0b749514133d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

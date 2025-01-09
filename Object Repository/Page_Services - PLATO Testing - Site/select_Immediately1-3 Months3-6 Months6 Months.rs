@@ -6,12 +6,12 @@
    <elementGuidId>93162502-538c-4ef4-86d2-38c2baca23cd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@name='menu-998']</value>
+         <key>BASIC</key>
+         <value>//*[@name = 'menu-998']</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@name = 'menu-998' and (text() = 'Immediately1-3 Months3-6 Months6+ Months' or . = 'Immediately1-3 Months3-6 Months6+ Months')]</value>
+         <key>XPATH</key>
+         <value>//select[@name='menu-998']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,60 +22,12 @@
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>select</value>
-      <webElementGuid>de15373b-a07e-4c9f-b404-9a556c7f39ee</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>wpcf7-form-control wpcf7-select wpcf7-validates-as-required</value>
-      <webElementGuid>505c4261-116f-4325-b269-de8d9e1d9bf3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-required</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>22d97a0c-11ec-4712-a53f-221d9c28c0b3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-invalid</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>ab2dff09-9b87-4633-9b08-9ca9c4fc1e60</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
       <value>menu-998</value>
-      <webElementGuid>af84feee-0e84-48f1-8462-97478a262ef4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Immediately1-3 Months3-6 Months6+ Months</value>
-      <webElementGuid>2dc12ade-6d58-49de-b196-99df7f51b991</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form init&quot;]/div[@class=&quot;whole-form&quot;]/p[8]/span[@class=&quot;wpcf7-form-control-wrap&quot;]/select[@class=&quot;wpcf7-form-control wpcf7-select wpcf7-validates-as-required&quot;]</value>
-      <webElementGuid>34522953-f34f-45a1-bcf5-959eb801ad29</webElementGuid>
+      <webElementGuid>893c5f81-8777-4fb8-a3fa-2333f8c2eaa2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -83,7 +35,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='menu-998']</value>
-      <webElementGuid>dc964d55-3426-4d7a-8ae9-fa832fba8286</webElementGuid>
+      <webElementGuid>daedd403-507f-4319-a817-e32bdad3abce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +43,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[8]/span/select</value>
-      <webElementGuid>5a8f2910-6b05-4633-b04a-b7623dc149f5</webElementGuid>
+      <webElementGuid>a51d408b-9886-4b3e-9330-233f5c03f12c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +51,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::select[1]</value>
-      <webElementGuid>62c60e0c-57d8-4f7e-ad08-9f54f15e2177</webElementGuid>
+      <webElementGuid>916cbee5-6193-4350-91c0-217ef85a1e4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +59,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/preceding::select[1]</value>
-      <webElementGuid>3126bccf-0555-4c38-84ab-b8668b641332</webElementGuid>
+      <webElementGuid>b5458d39-09ae-472c-b937-39a19db648aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +67,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[8]/span/select</value>
-      <webElementGuid>cd6b22f4-97c6-4a98-91ff-6d71f5fcdff4</webElementGuid>
+      <webElementGuid>eaf539d3-2ea0-4a1d-b22e-d55db6163743</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,6 +75,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'menu-998' and (text() = 'Immediately1-3 Months3-6 Months6+ Months' or . = 'Immediately1-3 Months3-6 Months6+ Months')]</value>
-      <webElementGuid>87147a28-8092-43ab-94da-ee38ccd5dc44</webElementGuid>
+      <webElementGuid>3c56e02c-2476-4e1f-af38-a431cb9eea29</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,16 +6,16 @@
    <elementGuidId>b3f3ed1c-80ae-45bb-bb86-ce5c966d73b8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.wpcf7-form-control.wpcf7-submit.has-spinner</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'submit']</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@value='Submit']</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'submit']</value>
+         <key>CSS</key>
+         <value>input.wpcf7-form-control.wpcf7-submit.has-spinner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b44a6862-2561-4176-b607-3e05b472a349</webElementGuid>
+      <webElementGuid>c53fee8c-50b9-4b94-b6c5-7cb6a40ff1ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>wpcf7-form-control wpcf7-submit has-spinner</value>
-      <webElementGuid>f0cb6fee-0a70-4702-b35c-84b0c99124ff</webElementGuid>
+      <webElementGuid>57538e5c-5c08-4a38-9dcc-e491d971cd52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>8b117b65-bc25-40b8-aa2f-70a2e0ee123b</webElementGuid>
+      <webElementGuid>c743fb40-5853-4721-ad36-6cee85117328</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Submit</value>
-      <webElementGuid>5a79bf1e-022d-4462-9fdf-b699d9a8755d</webElementGuid>
+      <webElementGuid>1473e140-34ec-4221-9e0f-9891df54a7f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form init&quot;]/div[@class=&quot;whole-form&quot;]/div[@class=&quot;submit-button&quot;]/p[1]/input[@class=&quot;wpcf7-form-control wpcf7-submit has-spinner&quot;]</value>
-      <webElementGuid>05999af3-fdd1-4dee-bc20-b8d0c8605aa2</webElementGuid>
+      <webElementGuid>4ee74f04-a307-4116-a515-c5542c7d2843</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Submit']</value>
-      <webElementGuid>bf8b2212-df97-4463-9260-a64747df128f</webElementGuid>
+      <webElementGuid>f6258496-7647-4414-a50a-d7e926e8d9ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/div[3]/p/input</value>
-      <webElementGuid>bbca6292-0876-4cab-b4dd-32391753fd69</webElementGuid>
+      <webElementGuid>eafbc424-5a0d-4248-a97b-61295fca3082</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p/input</value>
-      <webElementGuid>beee0a01-6f58-4647-bf86-3897dfa84e2a</webElementGuid>
+      <webElementGuid>d25f0c5b-87ec-4616-8317-804c693b838e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>9ab470f2-8752-46bb-946f-10b81544ca35</webElementGuid>
+      <webElementGuid>c987cdfe-66a9-4394-bb95-ab0fea0bb34a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

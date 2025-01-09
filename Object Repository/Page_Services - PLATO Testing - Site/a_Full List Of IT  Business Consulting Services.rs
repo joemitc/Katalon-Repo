@@ -6,12 +6,12 @@
    <elementGuidId>eff2d6f5-5a46-4597-81ad-2db64b1c53a4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.elementor-element.elementor-element-b6cb180.elementor-widget.elementor-widget-text-editor > div.elementor-widget-container > p > span > a</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'Full List Of IT &amp; Business Consulting Services')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.elementor-element.elementor-element-b6cb180.elementor-widget.elementor-widget-text-editor > div.elementor-widget-container > p > span > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7353876e-682f-46fa-9cdb-33710876e2f4</webElementGuid>
+      <webElementGuid>71a921fa-3e0c-49de-b764-aecc053421ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>http://3.145.59.133:8202/services/it-business-consulting/</value>
-      <webElementGuid>b33dfb43-d784-4487-9546-0faf59a04563</webElementGuid>
+      <webElementGuid>1821191d-aed9-4cdd-92b7-a5781ca9587e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Full List Of IT &amp; Business Consulting Services</value>
-      <webElementGuid>beaece9b-f0d7-4be5-9c12-2d02b7e9c502</webElementGuid>
+      <webElementGuid>11d9e434-8289-46ed-a6a3-3d98b70f6204</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;page-template-default page page-id-195 page-parent wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-195 elementor-page-422 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-195&quot;]/div[@class=&quot;elementor-element elementor-element-3c28948 e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-82cfc5b e-con-full e-flex e-con e-child&quot;]/div[@class=&quot;elementor-element elementor-element-d5fb0e3 e-con-full e-flex e-con e-child&quot;]/div[@class=&quot;elementor-element elementor-element-b6cb180 elementor-widget elementor-widget-text-editor&quot;]/div[@class=&quot;elementor-widget-container&quot;]/p[1]/span[1]/a[1]</value>
-      <webElementGuid>2a145788-a8d0-42aa-a6c7-9778a06a5aa4</webElementGuid>
+      <webElementGuid>c6afa4f9-c2a9-4d7b-91e2-5929d11d5dcb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Full List Of IT &amp; Business Consulting Services')]</value>
-      <webElementGuid>0572401c-2883-4669-82c7-92ebc1fe71ac</webElementGuid>
+      <webElementGuid>51da60db-25c1-4b95-9573-d1dff8c80c71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Full List Of Testing Services'])[1]/following::a[2]</value>
-      <webElementGuid>2c91868e-3a86-4680-b453-bcb3d97c87d5</webElementGuid>
+      <webElementGuid>91d91512-2bbf-4faf-a18c-f5311375d7de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[8]/following::a[4]</value>
-      <webElementGuid>316aba95-0b11-4fdf-930c-f1ada33dc58f</webElementGuid>
+      <webElementGuid>591e23aa-9196-4da4-a6c3-c134f4b191f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Work with us'])[1]/preceding::a[1]</value>
-      <webElementGuid>b49f9242-fe55-43bb-875c-bbaf85ebe066</webElementGuid>
+      <webElementGuid>76794f47-24d4-4ebb-9e7b-6d79b241861a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='info@platotech.com'])[1]/preceding::a[1]</value>
-      <webElementGuid>c8951520-b393-443d-a5f9-3e94dbfd13fb</webElementGuid>
+      <webElementGuid>6cd76d52-2ad2-4eae-a6af-c52aca063975</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Full List Of IT &amp; Business Consulting Services']/parent::*</value>
-      <webElementGuid>73091f3c-7d33-4582-bdda-0310366f5876</webElementGuid>
+      <webElementGuid>5c61770c-82a0-4cdb-ae69-a9f901c003e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[@href='http://3.145.59.133:8202/services/it-business-consulting/'])[2]</value>
-      <webElementGuid>d523ec74-05f0-470d-9b7c-d98dd0bfe6b5</webElementGuid>
+      <webElementGuid>22cc8ab9-7cdb-42e6-81db-ec602143c7e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div[3]/div/p/span/a</value>
-      <webElementGuid>2f2f378d-16b8-470d-a97b-fb491e7723e2</webElementGuid>
+      <webElementGuid>63383e3c-12ec-48d9-bef4-641f2fde1c0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'http://3.145.59.133:8202/services/it-business-consulting/' and (text() = 'Full List Of IT &amp; Business Consulting Services' or . = 'Full List Of IT &amp; Business Consulting Services')]</value>
-      <webElementGuid>143ac251-4935-49a0-b3b2-5edf60002117</webElementGuid>
+      <webElementGuid>0fd8563e-be36-4295-aed0-3f88b3cefccf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

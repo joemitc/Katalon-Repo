@@ -6,12 +6,12 @@
    <elementGuidId>8518e434-a5bd-4d09-a906-ba376b14aa45</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>p:nth-of-type(10) > b > font</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[10]/b/font</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(10) > b > font</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>b2537552-5c26-42ab-8330-755e3051c378</webElementGuid>
+      <webElementGuid>dad80d65-7105-4a46-84fc-066330a71d14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>color</name>
       <type>Main</type>
       <value>red</value>
-      <webElementGuid>07dca5ec-b65a-4102-bc93-87ada2baf17a</webElementGuid>
+      <webElementGuid>dba405ed-d650-4e2c-8c7c-5a308504535f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <type>Main</type>
       <value>*
 			</value>
-      <webElementGuid>126e0443-ab95-47a4-b79e-068042bbf1ee</webElementGuid>
+      <webElementGuid>6712c939-87bd-4326-92b8-c6f1a2dc1c34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +48,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form init&quot;]/div[@class=&quot;whole-form&quot;]/p[10]/b[1]/font[1]</value>
-      <webElementGuid>106bda6e-9692-47cb-982f-b0062e7d6f4e</webElementGuid>
+      <webElementGuid>0b246d7b-31ef-4082-9d24-ad9c8304e4f5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[10]/b/font</value>
-      <webElementGuid>53c5a86e-79cc-4e13-8735-1873827d2448</webElementGuid>
+      <webElementGuid>2c35c59d-a854-4d73-a557-33441514a4af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::font[1]</value>
-      <webElementGuid>b33040be-bac0-4339-bf88-581079a0e299</webElementGuid>
+      <webElementGuid>fda46ead-f715-442f-b0d1-34fcb344298f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Work With Us'])[7]/preceding::font[1]</value>
-      <webElementGuid>6a0dc5e5-13d7-4510-9f7e-0738cbc1c4fd</webElementGuid>
+      <webElementGuid>4a84fedb-ca6c-4508-893b-2549b7907333</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERAL BUSINESS INQUIRIES'])[1]/preceding::font[1]</value>
-      <webElementGuid>4a81a843-e30d-42f5-b56f-94221ba5c23f</webElementGuid>
+      <webElementGuid>9a6d740c-31ee-49e6-8e84-00772fb3e10f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[10]/b/font</value>
-      <webElementGuid>ff360b23-bfd0-468c-8234-025d12a1af39</webElementGuid>
+      <webElementGuid>39d67002-cc08-43b9-82f1-02412bb525f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
       <value>//font[(text() = '*
 			' or . = '*
 			')]</value>
-      <webElementGuid>bdc36088-946e-40e2-8e59-caf5ef06a8c8</webElementGuid>
+      <webElementGuid>58ce5353-8798-4f51-aafc-3c318ee12977</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

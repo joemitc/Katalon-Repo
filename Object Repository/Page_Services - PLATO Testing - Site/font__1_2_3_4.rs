@@ -6,12 +6,12 @@
    <elementGuidId>ff878c09-870f-4116-9188-61a64149e30b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>p:nth-of-type(4) > b > font</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[4]/b/font</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(4) > b > font</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>48660f5d-e3b9-47dc-950e-33b43dcf5fba</webElementGuid>
+      <webElementGuid>227f95c0-7ecf-4fc1-a33d-33cb7138dc22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>color</name>
       <type>Main</type>
       <value>red</value>
-      <webElementGuid>0449315a-51f1-4cf4-a06f-f1f0453ba52e</webElementGuid>
+      <webElementGuid>23f70e37-0381-4626-87b7-f0141f69e8a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <type>Main</type>
       <value>*
 			</value>
-      <webElementGuid>17d102a2-3ab9-4792-b227-f969251775d7</webElementGuid>
+      <webElementGuid>b0453323-d7be-4370-a4db-4650995a05ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +48,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wpcf7-f1107-p195-o1&quot;)/form[@class=&quot;wpcf7-form init&quot;]/div[@class=&quot;whole-form&quot;]/p[4]/b[1]/font[1]</value>
-      <webElementGuid>f40a8cf6-3b6b-4e29-93d0-5c2f6f029232</webElementGuid>
+      <webElementGuid>e9b44b4e-4ae2-435e-8b08-a27a233fc651</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wpcf7-f1107-p195-o1']/form/div[2]/p[4]/b/font</value>
-      <webElementGuid>9c4977d3-2317-46e7-84d9-b10cdcfed23a</webElementGuid>
+      <webElementGuid>8eb0777b-ba09-4382-bd42-74f76ca19f94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/following::font[1]</value>
-      <webElementGuid>717ae880-2944-4843-80d7-dd81ba002a28</webElementGuid>
+      <webElementGuid>d28ad5e2-0c25-4da9-8b97-73fabc31ffd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/preceding::font[1]</value>
-      <webElementGuid>2de09680-4826-4c1f-acb3-fde9a334a372</webElementGuid>
+      <webElementGuid>0d90bf36-8bdb-4aef-be8e-a275086de23c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p[4]/b/font</value>
-      <webElementGuid>69909580-5530-4542-9bfc-3f7d507ab48c</webElementGuid>
+      <webElementGuid>9ff856f0-2a19-46cf-a00c-96b0e89f67c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,6 +90,6 @@
       <value>//font[(text() = '*
 			' or . = '*
 			')]</value>
-      <webElementGuid>b232e7b4-a206-4bf1-9af2-e64c04985f81</webElementGuid>
+      <webElementGuid>5e0406ad-10f7-4128-91db-8f7f183d7a22</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

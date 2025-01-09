@@ -6,12 +6,12 @@
    <elementGuidId>9cac6b9b-cd97-4582-b0e9-f12e0ca69519</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a[title=&quot;mailto:info@platotech.com&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'info@platotech.com')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;mailto:info@platotech.com&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>bfdcb4c3-7b6c-414f-948e-b4fbbfb2b0e7</webElementGuid>
+      <webElementGuid>219868d2-c725-4309-9559-9122a6c7f1f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>title</name>
       <type>Main</type>
       <value>mailto:info@platotech.com</value>
-      <webElementGuid>87eabfed-3043-4ad0-9e8a-c254c1d908ee</webElementGuid>
+      <webElementGuid>f9d3fc06-e628-4f70-b5da-64cabe87c505</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>mailto:info@platotech.com</value>
-      <webElementGuid>d9ac2038-a891-4c2b-af83-8a539744ca7c</webElementGuid>
+      <webElementGuid>f38c4340-6333-4271-8197-a1a07659b06d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>info@platotech.com</value>
-      <webElementGuid>203494f9-479f-4df3-882f-22b8f2d80650</webElementGuid>
+      <webElementGuid>ffedff18-73b8-464a-a409-54ccb2ef3c88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;page-template-default page page-id-195 page-parent wp-custom-logo ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-195 elementor-page-422 e--ua-blink e--ua-chrome e--ua-webkit&quot;]/div[@class=&quot;elementor elementor-195&quot;]/div[@class=&quot;elementor-element elementor-element-9fc6dad e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-9545588 elementor-widget__width-initial elementor-widget elementor-widget-text-editor&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;fusion-text fusion-text-3&quot;]/p[1]/a[1]</value>
-      <webElementGuid>99721fec-0138-4ba1-a101-77680c3d5e9d</webElementGuid>
+      <webElementGuid>0c1773c6-3cdc-4dab-a5bf-7522d3f11cbc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'info@platotech.com')]</value>
-      <webElementGuid>0287f4a6-3776-40a5-b9b5-264a3a6d33b6</webElementGuid>
+      <webElementGuid>aa1ad321-ebfb-4954-885c-1c9b381f73eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Work with us'])[1]/following::a[1]</value>
-      <webElementGuid>4ac9f604-3442-4ded-9e9a-3d5f45b6e7d5</webElementGuid>
+      <webElementGuid>98a99629-6e6e-4f78-a2b0-d6d4a2f37600</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Full List Of IT &amp; Business Consulting Services'])[1]/following::a[1]</value>
-      <webElementGuid>a2342f1a-c253-47ef-89ee-d9fea9b0fe3b</webElementGuid>
+      <webElementGuid>17f98934-947f-45f1-9752-454ee5dd0c20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::a[1]</value>
-      <webElementGuid>1f101c34-b5a3-4585-bc8c-c20502616e28</webElementGuid>
+      <webElementGuid>aaec9ae0-b7f2-4339-93e9-ba878c16a5b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='info@platotech.com']/parent::*</value>
-      <webElementGuid>87f5ac27-d406-4417-bb0a-f3bf37f40e73</webElementGuid>
+      <webElementGuid>ed8db263-72cb-4800-82c1-c44aa498b720</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'mailto:info@platotech.com')]</value>
-      <webElementGuid>21757209-7709-4686-8a6d-a5aad41879a1</webElementGuid>
+      <webElementGuid>07cda3b9-c0cd-44d0-8482-6a518f7547e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p/a</value>
-      <webElementGuid>fd99c13c-4b28-4a7c-a0e8-8254700a77e8</webElementGuid>
+      <webElementGuid>d65b8fab-96f4-464b-93e5-3d0345a46b90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@title = 'mailto:info@platotech.com' and @href = 'mailto:info@platotech.com' and (text() = 'info@platotech.com' or . = 'info@platotech.com')]</value>
-      <webElementGuid>f795edd6-b738-46f0-a920-39c91dbe20c4</webElementGuid>
+      <webElementGuid>526edb8a-47b3-4b4b-9647-0f0fecc38b20</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
